@@ -1,4 +1,15 @@
 body {
+   /* Target unresolved internal links and style like regular text */
+   a.internal-link.is-unresolved {
+       color: inherit !important;          /* Use the surrounding text color */
+       text-decoration: none !important;  /* Remove underline */
+       font-weight: normal !important;     /* Match normal paragraph font weight */
+       cursor: default !important;         /* Remove pointer cursor */
+   }
    
-
+   /* Optional: make hover do nothing */
+   a.internal-link.is-unresolved:hover {
+       color: inherit !important;
+       text-decoration: none !important;
+   }
 }
