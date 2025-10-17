@@ -6,7 +6,7 @@
 
 ![Durn_Mavrek.jpg](/img/user/_assets/WestMarchesStyle/NPC%20Portraits/Durn_Mavrek.jpg)
 
-Durn Mavrek serves as the quartermaster for the [[Campaigns/WestMarchesStyle/Politics/Factions/Crimson Banner\|Crimson Banner]], overseeing supply logistics, provisioning, and resource management at the **[[Scarlet Depot\|Scarlet Depot]]** near the [[Iron Bastion\|Iron Bastion]]. His responsibilities ensure that soldiers and operatives are equipped, fed, and properly supplied for campaigns and operations.
+Durn Mavrek serves as the quartermaster for the [[Campaigns/WestMarchesStyle/Politics/Factions/Crimson Banner\|Crimson Banner]], overseeing supply logistics, provisioning, and resource management at the **[[Campaigns/WestMarchesStyle/Public/Locations/Scarlet Depot\|Scarlet Depot]]** near the [[Campaigns/WestMarchesStyle/Public/Locations/Iron Bastion\|Iron Bastion]]. His responsibilities ensure that soldiers and operatives are equipped, fed, and properly supplied for campaigns and operations.
 
 ---
 
