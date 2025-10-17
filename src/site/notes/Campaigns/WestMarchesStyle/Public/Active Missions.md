@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Active Missions.md","permalink":"/active-missions/","title":"Active Missions","tags":["missions","active"]}
+{"dg-publish":true,"dg-path":"Active Missions.md","permalink":"/active-missions/","title":"Active Missions","tags":["missions","active"],"dgShowFileTree":true}
 ---
 
 

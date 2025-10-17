@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Codex-Entries/Codex Entry Template.md","permalink":"/codex-entries/codex-entry-template/","title":"Codex Entry Template","tags":["template","codex"]}
+{"dg-publish":true,"dg-path":"Codex-Entries/Codex Entry Template.md","permalink":"/codex-entries/codex-entry-template/","title":"Codex Entry Template","tags":["template","codex"],"dgShowFileTree":true}
 ---
 
 

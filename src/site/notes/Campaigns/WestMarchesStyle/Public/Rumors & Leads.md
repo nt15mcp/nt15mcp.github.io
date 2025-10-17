@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rumors & Leads.md","permalink":"/rumors-and-leads/","title":"Rumors & Leads","tags":["rumors","leads","missions"]}
+{"dg-publish":true,"dg-path":"Rumors & Leads.md","permalink":"/rumors-and-leads/","title":"Rumors & Leads","tags":["rumors","leads","missions"],"dgShowFileTree":true}
 ---
 
 

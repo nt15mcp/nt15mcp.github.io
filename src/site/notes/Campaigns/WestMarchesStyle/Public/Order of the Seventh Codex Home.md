@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Order of the Seventh Codex Home.md","permalink":"/order-of-the-seventh-codex-home/","title":"Order of the Seventh Codex","tags":["homepage","guild","grayharbor","codex","gardenEntry"]}
+{"dg-publish":true,"dg-path":"Order of the Seventh Codex Home.md","permalink":"/order-of-the-seventh-codex-home/","title":"Order of the Seventh Codex","tags":["homepage","guild","grayharbor","codex","gardenEntry"],"dgShowFileTree":true}
 ---
 
 ---
