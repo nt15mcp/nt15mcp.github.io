@@ -14,7 +14,7 @@ When a mission concludes, its report is filed as a new [[Codex Entries (Index)\|
 
 | Ref # | Mission Title | Region | Field Party | Status |
 |-------|----------------|---------|--------------|---------|
-| M-001 | [[M001 - The Singing Barrow Expedition\|M001 - The Singing Barrow Expedition]] | Grayharbor Foothills | Arlen, Vessa, Dorian | ⏳ In Progress |
+| M-001 | [[M001 - The Singing Barrow Expedition\|M001 - The Singing Barrow Expedition]] | [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Foothills | Arlen, Vessa, Dorian | ⏳ In Progress |
 | M-002 | [[M002 - Lights Above the Sea\|M002 - Lights Above the Sea]] | Sword Coast | TBD | 🧭 Gathering Team |
 | M-003 | [[M003 - Orchard of Crimson Fruit\|M003 - Orchard of Crimson Fruit]] | Western Fields | TBD | 🧭 Gathering Team |
 

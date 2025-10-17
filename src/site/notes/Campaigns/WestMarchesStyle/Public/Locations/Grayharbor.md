@@ -5,12 +5,12 @@
 # **Grayharbor**
 *“Where the tides meet the streets.”*
 
-Grayharbor is a modest harbor town on the Sword Coast, south of Candlekeep. With a population of roughly 4,200 residents, it is a hub of maritime trade, scholarship, and artisanal craft. The town is known for its fog-swept streets, bustling market, and maritime heritage.
+Grayharbor is a modest harbor town on the [[Campaigns/WestMarchesStyle/Public/Locations/Sword Coast\|Sword Coast]], south of [[Campaigns/WestMarchesStyle/Public/Locations/Candlekeep\|Candlekeep]]. With a population of roughly 4,200 residents, it is a hub of maritime trade, scholarship, and artisanal craft. The town is known for its fog-swept streets, bustling market, and maritime heritage.
 
 ---
 
 ## Overview
-- **Region:** Sword Coast  
+- **Region:** [[Campaigns/WestMarchesStyle/Public/Locations/Sword Coast\|Sword Coast]]  
 - **Population:** ~4,200 (predominantly human and half-elven)  
 - **Government:** Council of Harborwardens, representing merchants, artisans, and civic officials  
 - **Known For:** Busy docks, market trade, and scenic coastal vistas  

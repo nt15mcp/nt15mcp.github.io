@@ -65,4 +65,4 @@ _(Attach sketches, maps, or rubbings as needed)_
 
 ---
 
-> _Submit completed reports to the [[Codex Entries (Index)\|Codex Entries (Index)]] via the Grayharbor archives._
+> _Submit completed reports to the [[Codex Entries (Index)\|Codex Entries (Index)]] via the [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] archives._

@@ -32,7 +32,7 @@ The Order acts not for glory, judgment, or dominion — but for vigilance, under
 
 > _“Where the seas meet the shelves of knowledge.”_
 
-Headquartered in **[[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]**, south of Candlekeep, this chapter serves as the **central hub** of Order operations along the western coast.
+Headquartered in **[[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]**, south of [[Campaigns/WestMarchesStyle/Public/Locations/Candlekeep\|Candlekeep]], this chapter serves as the **central hub** of Order operations along the western coast.
 
 From this hall, members of the Order:
 

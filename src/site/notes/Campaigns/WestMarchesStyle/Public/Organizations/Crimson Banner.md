@@ -6,7 +6,7 @@
 
 **Motto:** *“Strength in vigilance.”*
 
-The **Crimson Banner** is a renowned military organization responsible for safeguarding settlements and trade routes along the [[Sword Coast\|Sword Coast]]. Its members are known for their discipline, boldness, and unwavering loyalty to the regions under their protection. Soldiers of the Banner are often seen training in the open fields outside their garrisons, maintaining patrols along borders, or overseeing the construction of fortifications meant to secure towns and key passages.
+The **Crimson Banner** is a renowned military organization responsible for safeguarding settlements and trade routes along the [[Campaigns/WestMarchesStyle/Public/Locations/Sword Coast\|Sword Coast]]. Its members are known for their discipline, boldness, and unwavering loyalty to the regions under their protection. Soldiers of the Banner are often seen training in the open fields outside their garrisons, maintaining patrols along borders, or overseeing the construction of fortifications meant to secure towns and key passages.
 
 The Banner has earned a reputation as a force both dependable and formidable. While their presence reassures local communities, their strict adherence to order and procedure sometimes places them at odds with merchant guilds and more independent groups. Within the organization, hierarchy and training are paramount; officers are chosen for their strategic acumen, and soldiers take pride in their skill and reliability.
 

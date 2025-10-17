@@ -13,7 +13,7 @@
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Iron Sigil\|Iron Sigil]]              |
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]]         |
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]]   |
-| [[Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay\|Red Wizards of Thay]]     |
+| [[Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay\|Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay]]     |
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Verdant Enclave\|Verdant Enclave]]         |
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Whispering Veil\|Whispering Veil]]         |
 | [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]]               |
