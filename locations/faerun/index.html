@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>_Codex (Index)</title>
+<title>Faerun</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -86,7 +86,7 @@ CTRL + K
 <span class="foldername">Codex-Entries</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/codex-entries/index/">_Codex (Index) </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/codex-entries/index/">_Codex (Index) </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -128,7 +128,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/locations/faerun/">Faerun </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/locations/faerun/">Faerun </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -265,16 +265,136 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-10-17T21:16:42.365Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-10-17T21:16:42.365Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-10-17T21:16:42.365Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">_Codex (Index)</h1>
+<h1 data-note-icon="">Faerun</h1>
 <div class="header-meta">
 <div class="header-tags">
 <a class="tag" onclick="toggleTagSearch(this)">
-#codex
+#location
 </a>
 </div>
 </div>
 </header>
-<h1 id="codex-entries-index" tabindex="-1">Codex Entries (Index)</h1>
+<h1 id="strong-faerun-strong" tabindex="-1"><strong>Faerûn</strong></h1>
+<p><em>“A land of endless wonder and peril.”</em></p>
+<p>Faerûn is the central continent of the Forgotten Realms, stretching from icy northern tundras to sun-drenched deserts and tropical jungles. It is home to countless kingdoms, city-states, wild frontiers, and magical sites, inhabited by a myriad of peoples, races, and creatures.</p>
+<hr>
+<h2 id="overview" tabindex="-1">Overview</h2>
+<ul>
+<li>
+<p><strong>Region:</strong> Western and central continents of Toril</p>
+</li>
+<li>
+<p><strong>Population:</strong> Tens of millions across diverse cultures and civilizations</p>
+</li>
+<li>
+<p><strong>Government:</strong> Varied — monarchies, councils, guilds, and independent city-states</p>
+</li>
+<li>
+<p><strong>Known For:</strong> Magic, commerce, epic quests, and political intrigue</p>
+</li>
+<li>
+<p><strong>Atmosphere:</strong> Vibrant, unpredictable, and teeming with adventure</p>
+</li>
+</ul>
+<hr>
+<h2 id="notable-regions" tabindex="-1">Notable Regions</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Region</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a class="internal-link" target="" data-note-icon="" href="/locations/sword-coast/">Sword Coast</a></strong></td>
+<td>Coastal trade hubs, pirate coves, and scholarly cities like <a class="internal-link" target="" data-note-icon="" href="/locations/candlekeep/">Candlekeep</a> and <a class="internal-link" target="" data-note-icon="" href="/locations/grayharbor/">Grayharbor</a>.</td>
+</tr>
+<tr>
+<td><strong>Amn &amp; Tethyr</strong></td>
+<td>Wealthy mercantile nations with bustling cities and noble intrigues.</td>
+</tr>
+<tr>
+<td><strong>Thay &amp; Rashemen</strong></td>
+<td>Lands of magic, liches, and mystical warrior clans.</td>
+</tr>
+<tr>
+<td><strong>Chult</strong></td>
+<td>Dense jungles filled with dinosaurs, ancient ruins, and hidden treasures.</td>
+</tr>
+<tr>
+<td><strong><a class="internal-link" target="" data-note-icon="" href="/locations/waterdeep/">Waterdeep</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/locations/neverwinter/">Neverwinter</a></strong></td>
+<td>Major urban centers known for politics, commerce, and adventuring opportunities.</td>
+</tr>
+</tbody>
+</table></div>
+<hr>
+<h2 id="life-in-faerun" tabindex="-1">Life in Faerûn</h2>
+<ul>
+<li>
+<p><strong>Climate:</strong> Varies dramatically — arctic, temperate, desert, and tropical zones</p>
+</li>
+<li>
+<p><strong>Economy:</strong> Trade, magic, agriculture, craftsmanship, and adventuring exploits</p>
+</li>
+<li>
+<p><strong>Travelers:</strong> Merchants, adventurers, scholars, spies, and pilgrims</p>
+</li>
+<li>
+<p><strong>Common Sayings:</strong> “Fortune favors the bold” is often quoted across regions</p>
+</li>
+</ul>
+<hr>
+<h2 id="adventuring-opportunities" tabindex="-1">Adventuring Opportunities</h2>
+<ul>
+<li>
+<p>Explore ruins of ancient civilizations</p>
+</li>
+<li>
+<p>Protect towns from monsters, bandits, or extraplanar threats</p>
+</li>
+<li>
+<p>Negotiate with powerful factions and guilds</p>
+</li>
+<li>
+<p>Seek legendary artifacts, arcane knowledge, or divine favor</p>
+</li>
+</ul>
+<hr>
+<h2 id="points-of-interest" tabindex="-1">Points of Interest</h2>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Site</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a class="internal-link" target="" data-note-icon="" href="/locations/candlekeep/">Candlekeep</a></strong></td>
+<td>Fortress-library housing centuries of knowledge and rare tomes.</td>
+</tr>
+<tr>
+<td><strong><a class="internal-link is-unresolved" href="/404" target="">Baldur’s Gate</a></strong></td>
+<td>Thriving port city and hub of trade, intrigue, and adventure.</td>
+</tr>
+<tr>
+<td><strong><a class="internal-link" target="" data-note-icon="" href="/locations/neverwinter/">Neverwinter</a></strong></td>
+<td>City recovering from disaster, combining industry, magic, and political intrigue.</td>
+</tr>
+<tr>
+<td><strong><a class="internal-link" target="" data-note-icon="" href="/locations/waterdeep/">Waterdeep</a></strong></td>
+<td>The City of Splendors, a cosmopolitan center of trade, guilds, and adventuring opportunities.</td>
+</tr>
+<tr>
+<td><strong><a class="internal-link is-unresolved" href="/404" target="">Underdark</a></strong></td>
+<td>Vast subterranean network of caverns, drow cities, and hidden dangers.</td>
+</tr>
+</tbody>
+</table></div>
+<hr>
+<h2 id="summary" tabindex="-1">Summary</h2>
+<p>Faerûn is <strong>a land of contrasts</strong>: wild frontiers and civilized cities, benevolent deities and dark powers, mundane politics and world-shaping magic. Every adventurer can find opportunity, danger, and discovery — and even small actions can ripple across kingdoms and oceans.</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -288,7 +408,21 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#codex-entries-index">Codex Entries (Index)</a>
+<li><a href="#strong-faerun-strong">Faerûn</a>
+<ol>
+<li><a href="#overview">Overview</a>
+</li>
+<li><a href="#notable-regions">Notable Regions</a>
+</li>
+<li><a href="#life-in-faerun">Life in Faerûn</a>
+</li>
+<li><a href="#adventuring-opportunities">Adventuring Opportunities</a>
+</li>
+<li><a href="#points-of-interest">Points of Interest</a>
+</li>
+<li><a href="#summary">Summary</a>
+</li>
+</ol>
 </li>
 </ol>
 </nav>
