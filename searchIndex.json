@@ -1,7 +1,7 @@
 [
 {
 		"title": "Active Missions",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/active-missions/",
 		"content": "Active Missions\n\n“The field is the truest teacher.”\n\nHere are ongoing investigations currently undertaken by members of the Order.\nWhen a mission concludes, its report is filed as a new <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Codex Entry</a>.\n\nRef #\nMission Title\nRegion\nField Party\nStatus\n\nM-001\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">M001 - The Singing Barrow Expedition</a>\nGrayharbor Foothills\nArlen, Vessa, Dorian\n⏳ In Progress\n\nM-002\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">M002 - Lights Above the Sea</a>\nSword Coast\nTBD\n🧭 Gathering Team\n\nM-003\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">M003 - Orchard of Crimson Fruit</a>\nWestern Fields\nTBD\n🧭 Gathering Team\n\nNote: New missions are launched when a rumor reaches critical validation.\nInterested members may coordinate in the Discord Lodge or through in-character notes here.",
 		"tags": [ "note","missions","active"]
@@ -9,31 +9,15 @@
 
 {
 		"title": "Artifacts",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/artifacts/index/",
 		"content": "Artifacts",
 		"tags": [ "note"]
 },
 
 {
-		"title": "Codex Entries (Index)",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
-		"url":"/codex-entries-index/",
-		"content": "🕮 Codex Entries (Index)\n\n“All knowledge preserved, all truth recorded.”\n\nThis archive lists completed missions and documented phenomena.\nEach entry represents the collective work of one or more field parties of the Order.\n\n📗 Completed Entries\ntable date as &quot;Date&quot;, region as &quot;Region&quot;, outcome as &quot;Outcome&quot;\nfrom &quot;Codex Entries&quot;\nsort date desc",
-		"tags": [ "note","codex","archive","index"]
-},
-
-{
 		"title": "Codex Entry Template",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
-		"url":"/codex-entry-template/",
-		"content": "🕮 Codex Entry Template\n\nFiled under the authority of the Order of the Seventh Codex.\n\nMission Summary\n\nReference #:\nDate / Region / Chapter:\nField Party Members:\nMission Objective: (as understood before departure)\nOutcome: (success, partial success, failure, ongoing)\n\nAnomaly or Phenomenon\n\nClassification: (creature, magical effect, artifact, location, cult, rumor, unknown)\nObserved Behavior / Traits:\nSuspected Origin:\nPotential Impact: (local, regional, planar; immediate or latent)\nStatus: (neutralized, contained, ongoing, unresolved)\n\nActions Taken\n\nMethods Used: (investigation, diplomacy, combat, containment, ritual, etc.)\nKey Discoveries: (clues, lore, revelations, maps, texts, relics)\nAllies / Adversaries Encountered:\nCasualties / Losses (if any):\n\nRecommendations\n\nFurther Action Needed: (monitor, follow-up, secure site, send specialists)\nHazards / Warnings:\nSuggested Classification Level: (common knowledge / restricted / sealed)\n\nRecovered Items\n\nItem Name / Description\nStatus\nNotes\n\n[ ] Turned Over to Guild Vault\n\n[ ] Retained by Field Agent\n\n[ ] Destroyed / Lost\n\n(Attach sketches, maps, or rubbings as needed)\n\nAbstract\n\nWrite a concise 2–3 sentence summary suitable for indexing into the Codex.\nExample: “A spectral wolf haunting the Frostmere Woods was discovered to be the remnant of a cursed druid. Binding ritual restored peace to the region. Recommend monitoring lunar cycles for recurrence.”\n\nFiled By:\nRank / Name:\n\nSubmit completed reports to the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries-index/\">Codex Entries (Index)</a> via the Grayharbor archives.",
-		"tags": [ "note","template","codex"]
-},
-
-{
-		"title": "Codex Entry Template",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/codex-entries/codex-entry-template/",
 		"content": "🕮 Codex Entry Template\n\nFiled under the authority of the Order of the Seventh Codex.\n\nMission Summary\n\nReference #:\nDate / Region / Chapter:\nField Party Members:\nMission Objective: (as understood before departure)\nOutcome: (success, partial success, failure, ongoing)\n\nAnomaly or Phenomenon\n\nClassification: (creature, magical effect, artifact, location, cult, rumor, unknown)\nObserved Behavior / Traits:\nSuspected Origin:\nPotential Impact: (local, regional, planar; immediate or latent)\nStatus: (neutralized, contained, ongoing, unresolved)\n\nActions Taken\n\nMethods Used: (investigation, diplomacy, combat, containment, ritual, etc.)\nKey Discoveries: (clues, lore, revelations, maps, texts, relics)\nAllies / Adversaries Encountered:\nCasualties / Losses (if any):\n\nRecommendations\n\nFurther Action Needed: (monitor, follow-up, secure site, send specialists)\nHazards / Warnings:\nSuggested Classification Level: (common knowledge / restricted / sealed)\n\nRecovered Items\n\nItem Name / Description\nStatus\nNotes\n\n[ ] Turned Over to Guild Vault\n\n[ ] Retained by Field Agent\n\n[ ] Destroyed / Lost\n\n(Attach sketches, maps, or rubbings as needed)\n\nAbstract\n\nWrite a concise 2–3 sentence summary suitable for indexing into the Codex.\nExample: “A spectral wolf haunting the Frostmere Woods was discovered to be the remnant of a cursed druid. Binding ritual restored peace to the region. Recommend monitoring lunar cycles for recurrence.”\n\nFiled By:\nRank / Name:\n\nSubmit completed reports to the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Codex Entries (Index)</a> via the Grayharbor archives.",
 		"tags": [ "note","template","codex"]
@@ -41,7 +25,7 @@
 
 {
 		"title": "Index",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/codex-entries/index/",
 		"content": "Codex Entries\n\n“All knowledge preserved, all truth recorded.”\n\nThis archive lists completed missions and documented phenomena.\nEach entry represents the collective work of one or more field parties of the Order.\n\nCompleted Entries\ntable date as &quot;Date&quot;, region as &quot;Region&quot;, outcome as &quot;Outcome&quot;\nfrom &quot;Codex Entries&quot;\nsort date desc",
 		"tags": [ "note"]
@@ -49,7 +33,7 @@
 
 {
 		"title": "Index",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/cultures/index/",
 		"content": "Cultures",
 		"tags": [ "note"]
@@ -57,7 +41,7 @@
 
 {
 		"title": "Index",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/index/",
 		"content": "Locations",
 		"tags": [ "note"]
@@ -65,7 +49,7 @@
 
 {
 		"title": "Navigation",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/navigation/",
 		"content": "Navigation\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Home</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/index/\">Codex Entries</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/codex-entry-template/\">Codex Entry Template</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/index/\">Locations</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/index/\">People</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/cultures/index/\">Cultures</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/organizations/index/\">Organizations</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/artifacts/index/\">Artifacts</a>",
 		"tags": [ "note"]
@@ -73,7 +57,7 @@
 
 {
 		"title": "Order of the Seventh Codex",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "🌌 Order of the Seventh Codex\n\n“Identify. Address. Preserve.”\n— Motto of the Order\n\n🏛️ Charter\nThe Order of the Seventh Codex exists to identify and address unusual or dangerous disturbances before they escalate.\nOur mission is threefold:\n\nIdentify anomalies, rumors, and unexplained phenomena.\n\nAddress threats efficiently, stabilizing situations before they worsen.\n\nPreserve discoveries in the Codex, safeguarding the future.\n\nThe Order acts not for glory, judgment, or dominion — but for vigilance, understanding, and preservation.\n\n📖 The Grayharbor Chapter\n\n“Where the seas meet the shelves of knowledge.”\n\nHeadquartered in Grayharbor, south of Candlekeep, this chapter serves as the central hub of Order operations along the western coast.\nFrom this hall, members of the Order:\n\nReview <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/rumors-and-leads/\">Rumors &amp; Leads</a> drawn from travelers, scholars, and dreamers alike.\n\nForm temporary Field Parties to investigate pressing anomalies.\n\nSubmit reports to be recorded as <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/index/\">Codex Entries</a> for future generations.\n\nThe Grayharbor Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.\n\n🧭 How to Join\n\n“Curiosity is the first qualification.”\n\nThose who wish to serve need not petition kings or gods.\nThey need only bring an open mind, a steady hand, and the willingness to record the truth.\nTo become a field member of the Order, apply within —\nthe archivists of Grayharbor maintain a watchful eye for capable volunteers.\n(For out-of-character coordination, all inquiries are handled through the Discord Lodge.)\n\n📘 The Codex\nAll field operations are logged as official Codex Entries — structured reports filed by those who undertake expeditions.\nEach record preserves the facts of a mission: what was found, how it was handled, and what the world learned (or failed to learn) as a result.\nSee:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/index/\">Codex Entries</a> — completed records\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/rumors-and-leads/\">Rumors &amp; Leads</a> — ongoing investigations\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/active-missions/\">Active Missions</a> — jobs available\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/artifacts/index/\">Recovered Artifacts &amp; Phenomena</a> — notable finds and objects\n\n✍️ Field Reporting Template\nWhen submitting a report to the Codex, use the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/codex-entry-template/\">Codex Entry Template</a>\n\nThe Codex does not judge success or failure — only what was observed, recorded, and learned.\n\n🧩 Ranks of the Order\nRanks serve as honorary titles, reflecting dedication to the mission — not authority over others.\n\nRank\nTitle\n\n1\nNeophyte\n\n2\nInitiate\n\n3\nAcolyte\n\n4\nSeeker\n\n5\nWarden\n\n6\nChronicler\n\n7\nArchivist\n\n8\nLorekeeper\n\n9\nMagister\n\n10\nGrand Curator\n\nAll ranks are ceremonial within the Grayharbor Chapter. Every member may undertake missions, provided they record what they find.\n\n🕯️ Traditions of the Order\n\nThe Marking of Discovery — Every completed mission earns a new Codex entry.\n\nThe Silent Vigil — Members lost in service are honored in a quiet midnight rite.\n\nThe Convocation — Once yearly, the chapters convene to exchange discoveries.\n\n🧶 Origins &amp; Legacy\n\n“Some say we were founded after a calamity that never came to pass.”\n\nThe true origin of the Order is disputed. Among the most discussed theories:\n\nThe Cataclysm That Wasn’t\n\nThe Scholars’ Pact\n\nThe Mercenary Turned Mentor\n\nThe Forgotten Threat\n\nRead more: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Origins of the Order</a>\n\n📂 Useful Links\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/rumors-and-leads/\">Rumors &amp; Leads</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/active-missions/\">Active Missions</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/codex-entries/index/\">Codex Entries</a>\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Artifacts &amp; Anomalies</a>\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Notable Members</a>\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Guild Traditions &amp; Culture</a>\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Grayharbor (Town Overview)</a>\n\n🪶 Closing Words\n\n“We act before disturbances escalate — investigating anomalies, stabilizing threats, and recording our findings to safeguard the future.”\n— Excerpt from the First Codex, Entry I: The Purpose of Vigilance",
 		"tags": [ "note","homepage","guild","grayharbor","codex","gardenEntry"]
@@ -81,7 +65,7 @@
 
 {
 		"title": "Index",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/organizations/index/",
 		"content": "Organizations",
 		"tags": [ "note"]
@@ -89,7 +73,7 @@
 
 {
 		"title": "Index",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/index/",
 		"content": "People",
 		"tags": [ "note"]
@@ -97,7 +81,7 @@
 
 {
 		"title": "Rumors & Leads",
-		"date":"Fri Oct 17 2025 17:57:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Oct 17 2025 17:57:37 GMT+0000 (Coordinated Universal Time)",
 		"url":"/rumors-and-leads/",
 		"content": "🌿 Rumors &amp; Leads\n\n“Every whisper holds a seed of truth.”\n\nThese are unverified reports, anomalies, or curiosities awaiting investigation.\nMembers of the Order may sign their characters up to pursue any available lead.\nOnce an expedition is formed, the rumor is moved to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/active-missions/\">Active Missions</a>.\n\nActive Rumors\n\nRumor Title\nOrigin / Source\nStatus\nNotes\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">R001 - The Singing Barrow</a>\nShepherds near Grayharbor\n🕵️ Unconfirmed\nStrange harmonics from beneath old tomb.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">R002 - The Shattered Sky</a>\nSailors’ logbook, Sword Coast\n🕵️ Unconfirmed\nReports of lights and rifts above the sea at dusk.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">R003 - The Crimson Orchard</a>\nMerchant caravan survivor\n🕵️ Unconfirmed\nTrees bearing blood-red fruit overnight.\n\nCompleted Leads\n(See: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Codex Entries (Index)</a>)",
 		"tags": [ "note","rumors","leads","missions"]
