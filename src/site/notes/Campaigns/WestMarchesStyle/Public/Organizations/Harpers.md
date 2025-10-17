@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Harpers.md","permalink":"/organizations/harpers/","tags":["intelligence","sword-coast","organization"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Harpers.md","permalink":"/organizations/harpers/","tags":["intelligence","sword-coast","organization","Harpers"],"dgShowFileTree":true}
 ---
 
 # **Harpers**

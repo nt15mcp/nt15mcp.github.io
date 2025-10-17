@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Zhentarim.md","permalink":"/organizations/zhentarim/","tags":["organization","mercantile","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Zhentarim.md","permalink":"/organizations/zhentarim/","tags":["organization","mercantile","sword-coast","Zhentarim"],"dgShowFileTree":true}
 ---
 
 # **Zhentarim**

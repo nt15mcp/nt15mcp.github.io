@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Emerald Enclave.md","permalink":"/organizations/emerald-enclave/","tags":["nature","sword-coast","organization"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Emerald Enclave.md","permalink":"/organizations/emerald-enclave/","tags":["nature","sword-coast","organization","EmeraldEnclave"],"dgShowFileTree":true}
 ---
 
 

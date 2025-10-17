@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Dawnforged Circle.md","permalink":"/organizations/dawnforged-circle/","tags":["religious","civic","sword-coast","organization"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Dawnforged Circle.md","permalink":"/organizations/dawnforged-circle/","tags":["religious","civic","sword-coast","organization","DawnforgedCircle"],"dgShowFileTree":true}
 ---
 
 # **Dawnforged Circle**

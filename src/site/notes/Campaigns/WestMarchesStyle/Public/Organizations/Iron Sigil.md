@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Iron Sigil.md","permalink":"/organizations/iron-sigil/","tags":["organization","industry","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Iron Sigil.md","permalink":"/organizations/iron-sigil/","tags":["organization","industry","sword-coast","IronSigil"],"dgShowFileTree":true}
 ---
 
 # **Iron Sigil**

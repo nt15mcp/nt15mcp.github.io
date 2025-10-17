@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Lord’s Alliance.md","permalink":"/organizations/lord-s-alliance/","tags":["organization","political","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Lord’s Alliance.md","permalink":"/organizations/lord-s-alliance/","tags":["organization","political","sword-coast","LordsAlliance"],"dgShowFileTree":true}
 ---
 
 # **Lord’s Alliance**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Order of the Gauntlet.md","permalink":"/organizations/order-of-the-gauntlet/","tags":["organization","religious","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Order of the Gauntlet.md","permalink":"/organizations/order-of-the-gauntlet/","tags":["organization","religious","sword-coast","OrderOfTheGauntlet"],"dgShowFileTree":true}
 ---
 
 # **Order of the Gauntlet**

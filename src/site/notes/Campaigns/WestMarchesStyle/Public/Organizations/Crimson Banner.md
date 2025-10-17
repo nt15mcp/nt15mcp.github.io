@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Crimson Banner.md","permalink":"/organizations/crimson-banner/","tags":["organization","military","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Crimson Banner.md","permalink":"/organizations/crimson-banner/","tags":["organization","military","sword-coast","CrimsonBanner"],"dgShowFileTree":true}
 ---
 
 # **Crimson Banner**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Verdant Enclave.md","permalink":"/organizations/verdant-enclave/","tags":["organization","agriculture","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Verdant Enclave.md","permalink":"/organizations/verdant-enclave/","tags":["organization","agriculture","sword-coast","VerdantEnclave"],"dgShowFileTree":true}
 ---
 
 # **Verdant Enclave**

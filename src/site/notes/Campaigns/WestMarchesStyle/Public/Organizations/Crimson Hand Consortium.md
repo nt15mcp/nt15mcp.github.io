@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Crimson Hand Consortium.md","permalink":"/organizations/crimson-hand-consortium/","tags":["organization","sword-coast","mercantile"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Crimson Hand Consortium.md","permalink":"/organizations/crimson-hand-consortium/","tags":["organization","sword-coast","mercantile","CrimsonHandConsortium"],"dgShowFileTree":true}
 ---
 
 # **Crimson Hand Consortium**

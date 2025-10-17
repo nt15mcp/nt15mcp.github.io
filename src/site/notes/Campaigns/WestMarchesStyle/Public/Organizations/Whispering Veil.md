@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Organizations/Whispering Veil.md","permalink":"/organizations/whispering-veil/","tags":["organization","intelligence","sword-coast"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Organizations/Whispering Veil.md","permalink":"/organizations/whispering-veil/","tags":["organization","intelligence","sword-coast","WhisperingVeil"],"dgShowFileTree":true}
 ---
 
 # **Whispering Veil**

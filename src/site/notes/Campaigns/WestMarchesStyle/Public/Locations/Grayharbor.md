@@ -12,7 +12,7 @@ Grayharbor is a modest harbor town on the [[Campaigns/WestMarchesStyle/Public/Lo
 ## Overview
 - **Region:** [[Campaigns/WestMarchesStyle/Public/Locations/Sword Coast\|Sword Coast]]  
 - **Population:** ~4,200 (predominantly human and half-elven)  
-- **Government:** Council of Harborwardens, representing merchants, artisans, and civic officials  
+- **Government:** [[Campaigns/WestMarchesStyle/Public/Organizations/Council of Harborwardens\|Council of Harborwardens]], representing merchants, artisans, and civic officials  
 - **Known For:** Busy docks, market trade, and scenic coastal vistas  
 - **Atmosphere:** Quietly industrious; a mix of scholars, sailors, and tradesfolk
 
@@ -57,6 +57,6 @@ Grayharbor is a modest harbor town on the [[Campaigns/WestMarchesStyle/Public/Lo
 ---
 
 ## Civic Administration
-Grayharbor is managed by the **[[Council of Harborwardens\|Council of Harborwardens]]**, composed of elected representatives from merchants, artisans, and civic officials. Council meetings are open to the public and often accompanied by communal gatherings at the waterfront.
+Grayharbor is managed by the **[[Campaigns/WestMarchesStyle/Public/Organizations/Council of Harborwardens\|Council of Harborwardens]]**, composed of elected representatives from merchants, artisans, and civic officials. Council meetings are open to the public and often accompanied by communal gatherings at the waterfront.
 
 ---
