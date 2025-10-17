@@ -5,3 +5,4 @@
 This is the home page
 [[Campaigns/WestMarchesStyle/Order of the Seventh Codex/Order of the Seventh Codex\|Order of the Seventh Codex]]
 [[Campaigns/WestMarchesStyle/Politics/Factions/Crimson Banner\|Crimson Banner]]
+[[Campaigns/WestMarchesStyle/NPCs/NPCs\|NPCs]]
