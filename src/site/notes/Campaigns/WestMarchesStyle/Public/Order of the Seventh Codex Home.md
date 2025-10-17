@@ -40,7 +40,7 @@ From this hall, members of the Order:
     
 - Form temporary **Field Parties** to investigate pressing anomalies.
     
-- Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]]** for future generations.
+- Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]]** for future generations.
     
 
 The [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.
@@ -68,13 +68,13 @@ Each record preserves the facts of a mission: what was found, how it was handled
 
 See:
 
-- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]] — completed records
+- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]] — completed records
     
 - [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]] — ongoing investigations
 	
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]] — jobs available
     
-- [[Campaigns/WestMarchesStyle/Public/Artifacts/Index\|Recovered Artifacts & Phenomena]] — notable finds and objects
+- [[Campaigns/WestMarchesStyle/Public/Artifacts/_Index\|Recovered Artifacts & Phenomena]] — notable finds and objects
     
 
 ---
@@ -144,7 +144,7 @@ Read more: [[Origins of the Order\|Origins of the Order]]
     
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]]
     
-- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]]
+- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]]
     
 - [[Artifacts & Anomalies\|Artifacts & Anomalies]]
     
