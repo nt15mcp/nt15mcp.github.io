@@ -40,7 +40,7 @@ From this hall, members of the Order:
     
 - Form temporary **Field Parties** to investigate pressing anomalies.
     
-- Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex Entries (Index)\|Codex Entries (Index)]]** for future generations.
+- Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]]** for future generations.
     
 
 The Grayharbor Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.
@@ -68,22 +68,20 @@ Each record preserves the facts of a mission: what was found, how it was handled
 
 See:
 
-- [[Campaigns/WestMarchesStyle/Public/Codex Entries (Index)\|Codex Entries (Index)]] — completed records
+- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]] — completed records
     
 - [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]] — ongoing investigations
 	
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]] — jobs available
     
-- [[Recovered Artifacts & Phenomena\|Recovered Artifacts & Phenomena]] — notable finds and objects
+- [[Campaigns/WestMarchesStyle/Public/Artifacts/index\|Recovered Artifacts & Phenomena]] — notable finds and objects
     
 
 ---
 
 ### ✍️ **Field Reporting Template**
 
-When submitting a report to the Codex, use the **[[Campaigns/WestMarchesStyle/Public/Codex Entry Template\|Codex Entry Template]]** (below).
-
-→ [[Campaigns/WestMarchesStyle/Public/Codex Entry Template\|Codex Entry Template]] ← (link to your provided format)
+When submitting a report to the Codex, use the **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/Codex Entry Template\|Codex Entry Template]]**
 
 > _The Codex does not judge success or failure — only what was observed, recorded, and learned._
 
@@ -146,7 +144,7 @@ Read more: [[Origins of the Order\|Origins of the Order]]
     
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]]
     
-- [[Campaigns/WestMarchesStyle/Public/Codex Entries (Index)\|Codex Entries (Index)]]
+- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]]
     
 - [[Artifacts & Anomalies\|Artifacts & Anomalies]]
     

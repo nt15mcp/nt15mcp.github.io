@@ -24,4 +24,4 @@ Once an expedition is formed, the rumor is moved to [[Campaigns/WestMarchesStyle
 ---
 
 ### Completed Leads
-(See: [[Campaigns/WestMarchesStyle/Public/Codex Entries (Index)\|Codex Entries (Index)]])
+(See: [[Codex Entries (Index)\|Codex Entries (Index)]])

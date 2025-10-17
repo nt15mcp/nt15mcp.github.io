@@ -3,12 +3,12 @@
 ---
 
 
-# ⚔️ Active Missions
+# Active Missions
 
 > *“The field is the truest teacher.”*
 
 Here are ongoing investigations currently undertaken by members of the Order.  
-When a mission concludes, its report is filed as a new [[Campaigns/WestMarchesStyle/Public/Codex Entries (Index)\|Codex Entry]].
+When a mission concludes, its report is filed as a new [[Codex Entries (Index)\|Codex Entry]].
 
 ---
 
