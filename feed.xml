@@ -3,14 +3,14 @@
     <title>Order of the Seventh Codex</title>
     <link href="https://nt15mcp.github.io/nt15mcp.github.io/feed.xml" rel="self" />
     <link href="https://nt15mcp.github.io/nt15mcp.github.io" />
-    <updated>2025-10-17T18:19:44Z</updated>
+    <updated>2025-10-17T19:31:45Z</updated>
     <id>https://nt15mcp.github.io/nt15mcp.github.io</id>
         <entry>
             <title>
                 Rumors &amp; Leads
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/rumors-and-leads/</id>
             <content type="html">
                 &lt;h1 id=&quot;rumors-and-amp-leads&quot; tabindex=&quot;-1&quot;&gt;🌿 Rumors &amp;amp; Leads&lt;/h1&gt;
@@ -34,7 +34,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;R001 - The Singing Barrow&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Shepherds near Grayharbor&lt;/td&gt;
+&lt;td&gt;Shepherds near &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;🕵️ Unconfirmed&lt;/td&gt;
 &lt;td&gt;Strange harmonics from beneath old tomb.&lt;/td&gt;
 &lt;/tr&gt;
@@ -64,7 +64,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;people&quot; tabindex=&quot;-1&quot;&gt;People&lt;/h1&gt;
@@ -74,10 +74,128 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
         </entry>
         <entry>
             <title>
+                Zhentarim
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/zhentarim/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-zhentarim-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Zhentarim&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Zhentarim&lt;/strong&gt; is a powerful and shadowy organization that pursues wealth and influence across the region through commerce, mercenary operations, and covert power. Members of the Zhentarim are ambitious, ruthless, and highly opportunistic, adept at leveraging networks of spies, mercenaries, and black-market contacts to achieve their goals.&lt;/p&gt;
+&lt;p&gt;The organization seeks to expand control over trade routes, mercenary companies, and political connections, often using bribery, extortion, espionage, and strategic manipulation to secure advantage. While their operations are frequently discreet, the effects of their influence are felt throughout cities and settlements, where control over commerce and information can tip the balance of power.&lt;/p&gt;
+&lt;p&gt;Though alliances with other factions are formed opportunistically and often temporary, the Zhentarim frequently find themselves at odds with groups like the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/emerald-enclave/&quot;&gt;Emerald Enclave&lt;/a&gt;, whose missions or moral frameworks conflict with the organization’s pursuit of profit and strategic influence.&lt;/p&gt;
+&lt;p&gt;Recognized for cunning, resourcefulness, and a pervasive presence in regional commerce and politics, the Zhentarim operate in the shadows, shaping trade, power, and opportunity according to their own designs.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/zhentarim/" />
+        </entry>
+        <entry>
+            <title>
+                Whispering Veil
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/whispering-veil/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-whispering-veil-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Whispering Veil&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Whispering Veil&lt;/strong&gt; is a clandestine organization focused on the collection and control of intelligence, wielding information as a tool to influence political outcomes across the region. Its members are known for their cunning, patience, and moral ambiguity, operating in secrecy to shape events without drawing attention to their hand.&lt;/p&gt;
+&lt;p&gt;The Veil maintains an extensive network of spies, messengers, safehouses, and coded communication channels, enabling its agents to monitor developments, gather sensitive information, and discreetly intervene when necessary. Their methods include subtle manipulation, selective sabotage, blackmail, and strategic dissemination of intelligence, all carried out with precision and discretion.&lt;/p&gt;
+&lt;p&gt;While the Whispering Veil occasionally forms opportunistic alliances, particularly with the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/crimson-hand-consortium/&quot;&gt;Crimson Hand Consortium&lt;/a&gt;, their objectives often place them in tension with groups that value transparency or direct intervention, such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/order-of-the-gauntlet/&quot;&gt;Order of the Gauntlet&lt;/a&gt; or the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt;. Their influence is largely invisible to the public eye, yet it can have far-reaching effects on politics, commerce, and the balance of power throughout the region.&lt;/p&gt;
+&lt;p&gt;Recognized for subtlety and strategic acumen, the Whispering Veil operates in the shadows, shaping the outcomes of conflicts and decisions while remaining largely unseen.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/whispering-veil/" />
+        </entry>
+        <entry>
+            <title>
+                Verdant Enclave
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/verdant-enclave/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-verdant-enclave-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Verdant Enclave&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Verdant Enclave&lt;/strong&gt; is a cooperative organization dedicated to the stewardship of fertile lands and the promotion of sustainable agriculture. Its members, often &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;druids&lt;/a&gt; and local &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;agronomists&lt;/a&gt;, work to ensure food security, protect vital farmland, and educate communities in practices that nurture the land while maintaining productivity.&lt;/p&gt;
+&lt;p&gt;Known for their patience and idealism, the Verdant Enclave emphasizes collaboration with &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;villages&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;farmers&lt;/a&gt;, and local authorities. They employ magical enhancements to crops, implement cooperative farming initiatives, and run educational campaigns to encourage sustainable practices. While their efforts are primarily constructive and community-focused, they sometimes clash with mercantile interests or industrial groups, such as &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;merchant lords&lt;/a&gt; or the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/iron-sigil/&quot;&gt;Iron Sigil&lt;/a&gt;, whose priorities may threaten the balance of cultivated lands.&lt;/p&gt;
+&lt;p&gt;Allied with the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/emerald-enclave/&quot;&gt;Emerald Enclave&lt;/a&gt;, the Verdant Enclave complements broader efforts to maintain ecological stability, focusing specifically on the health and resilience of agricultural landscapes. Their influence is often subtle, yet it shapes the livelihoods and sustainability of communities across the region.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/verdant-enclave/" />
+        </entry>
+        <entry>
+            <title>
+                Red Wizards of Thay
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/red-wizards-of-thay/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-red-wizards-of-thay-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Red Wizards of Thay&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Red Wizards of Thay&lt;/strong&gt; are an enigmatic and highly skilled organization devoted to the study and mastery of arcane power. Renowned for their ambition and intellectual rigor, they seek to acquire and control magical knowledge, often pursuing research and experimentation that others might consider dangerous or forbidden.&lt;/p&gt;
+&lt;p&gt;Members of the Red Wizards are typically secretive, obsessive, and highly confident in their abilities. They maintain extensive networks of magical scholars, planar research facilities, constructs, and arcane artifacts, enabling them to conduct experiments, develop powerful magical tools, and explore the boundaries of known magic. Their work is meticulous and disciplined, though sometimes bordering on extreme risk-taking in the pursuit of discovery and influence.&lt;/p&gt;
+&lt;p&gt;While the organization occasionally forms opportunistic alliances with groups such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt; or even the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt;, their methods and ambitions frequently bring them into tension with other factions, including the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/emerald-enclave/&quot;&gt;Emerald Enclave&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt;, whose priorities or ethical frameworks can conflict with the Red Wizards’ pursuits.&lt;/p&gt;
+&lt;p&gt;The Red Wizards of Thay are recognized as formidable practitioners of magic, combining secrecy, ambition, and scholarly precision to extend their influence and advance the understanding — and control — of arcane forces.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/red-wizards-of-thay/" />
+        </entry>
+        <entry>
+            <title>
+                Order of the Gauntlet
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/order-of-the-gauntlet/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-order-of-the-gauntlet-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Order of the Gauntlet&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Order of the Gauntlet&lt;/strong&gt; is a disciplined organization dedicated to combating evil, protecting the innocent, and upholding law and order throughout the region. Known for their bravery and unwavering sense of duty, members of the Order often embody the highest standards of martial and moral discipline.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Knights&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;clerics&lt;/a&gt;, and other devoted agents form the backbone of the organization, supported by fortified strongholds and extensive intelligence networks. Their methods include patrolling threatened areas, directly confronting dangers, escorting vulnerable parties, and carrying out judicial enforcement where necessary. The Order values courage, precision, and adherence to established codes of conduct, though their rigid approach can sometimes appear inflexible or overly zealous.&lt;/p&gt;
+&lt;p&gt;The Order frequently works alongside allies such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt;, coordinating efforts to maintain regional security and justice. At the same time, their mission naturally brings them into opposition with more clandestine or morally ambiguous factions, including the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/crimson-hand-consortium/&quot;&gt;Crimson Hand Consortium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recognized as stalwart defenders of law and principle, the Order of the Gauntlet is a symbol of protection, moral certainty, and unwavering vigilance against threats to the innocent.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/order-of-the-gauntlet/" />
+        </entry>
+        <entry>
+            <title>
+                Lord’s Alliance
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/lord-s-alliance/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-lord-s-alliance-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord’s Alliance&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Lord’s Alliance&lt;/strong&gt; is a coalition of city-states and influential leaders dedicated to maintaining regional stability, fostering political cooperation, and securing economic prosperity. Its members view wealth, trade, and structured governance as essential engines of civilization and societal order.&lt;/p&gt;
+&lt;p&gt;Ambitious and pragmatic, the Alliance relies on its extensive network of wealthy members, city militias, fortified strongholds, and diplomatic contacts to enforce laws and uphold agreements between settlements. Trade corridors are protected, cities are patrolled, and targeted measures are used to ensure compliance and cooperation across their sphere of influence.&lt;/p&gt;
+&lt;p&gt;While focused on stability and commerce, the Alliance’s efforts sometimes put it at odds with clandestine or disruptive factions, such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/crimson-hand-consortium/&quot;&gt;Crimson Hand Consortium&lt;/a&gt;, whose ambitions can interfere with established order and trade. Allies like the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/order-of-the-gauntlet/&quot;&gt;Order of the Gauntlet&lt;/a&gt; often complement the Alliance’s goals, supporting its pursuit of a cohesive and secure region.&lt;/p&gt;
+&lt;p&gt;Recognized as a centralizing force in regional politics, the Lord’s Alliance is synonymous with organized governance, economic oversight, and the careful management of civic power.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/lord-s-alliance/" />
+        </entry>
+        <entry>
+            <title>
+                Iron Sigil
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/iron-sigil/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-iron-sigil-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Iron Sigil&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Iron Sigil&lt;/strong&gt; is a prominent organization dedicated to advancing industry, infrastructure, and magical or technological innovation throughout the region. Known for its disciplined and practical approach, the Sigil seeks to strengthen cities, promote trade, and improve regional infrastructure through skill, planning, and organization.&lt;/p&gt;
+&lt;p&gt;The members of the Iron Sigil are results-oriented, often blending craftsmanship with strategic oversight. Skilled &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;artisans&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;engineers&lt;/a&gt;, and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;magitech&lt;/a&gt; specialists work within guild halls and workshops to develop new tools, enchantments, and structures. Projects are commissioned with careful planning, trade standards are enforced, and in some cases, the Sigil may consolidate production to ensure efficiency and reliability.&lt;/p&gt;
+&lt;p&gt;While largely practical in outlook, the Iron Sigil’s structured approach and focus on tangible outcomes can sometimes come across as authoritarian. They maintain alliances with groups such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt; and influential merchant lords, leveraging cooperative ventures to advance economic growth. At the same time, their efforts occasionally bring them into tension with factions like the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/emerald-enclave/&quot;&gt;Emerald Enclave&lt;/a&gt; or the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/dawnforged-circle/&quot;&gt;Dawnforged Circle&lt;/a&gt;, whose priorities or ethical frameworks may conflict with the Sigil’s industrial and infrastructural ambitions.&lt;/p&gt;
+&lt;p&gt;Recognized as a driving force for regional development, the Iron Sigil is associated with progress, innovation, and the disciplined application of knowledge and resources.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/iron-sigil/" />
+        </entry>
+        <entry>
+            <title>
                 Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;organizations&quot; tabindex=&quot;-1&quot;&gt;Organizations&lt;/h1&gt;
@@ -87,10 +205,96 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
         </entry>
         <entry>
             <title>
+                Harpers
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/harpers/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-harpers-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Harpers&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Harpers&lt;/strong&gt; are a secretive network devoted to preserving knowledge, promoting justice, and maintaining balance across political and magical spheres. Though their methods are often subtle and unseen, the organization is widely respected for its intelligence and careful guidance of regional affairs.&lt;/p&gt;
+&lt;p&gt;Members of the Harpers are typically idealistic and morally principled, yet flexible when circumstances demand discretion or compromise. Field agents, spies, and scholars work together to gather intelligence, monitor influential figures, and prevent the misuse of power, while their libraries and magical resources support the careful study of arcane and historical knowledge.&lt;/p&gt;
+&lt;p&gt;The organization often collaborates with groups that share similar goals, such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/emerald-enclave/&quot;&gt;Emerald Enclave&lt;/a&gt;, leveraging alliances to advance stability and safeguard communities. However, their activities can place them at odds with more overtly aggressive or opportunistic factions, including the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/red-wizards-of-thay/&quot;&gt;Red Wizards of Thay&lt;/a&gt;, whose ambitions sometimes threaten the balance the Harpers strive to protect.&lt;/p&gt;
+&lt;p&gt;The Harpers are recognized not for martial might but for subtle influence and strategic insight, acting as unseen stewards of knowledge and guardians against tyranny throughout the region.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/harpers/" />
+        </entry>
+        <entry>
+            <title>
+                Emerald Enclave
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/emerald-enclave/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-emerald-enclave-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Emerald Enclave&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Emerald Enclave&lt;/strong&gt; is a loose but organized coalition devoted to preserving the balance between civilization and the natural world. Its members, often &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;druids&lt;/a&gt; and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;rangers&lt;/a&gt;, are deeply attuned to the rhythms of the land, and they work to prevent ecological disruption and the reckless exploitation of natural resources.&lt;/p&gt;
+&lt;p&gt;The Enclave approaches its mission with patience and a measured hand. Its methods range from ritualistic interventions at sacred sites to environmental management and diplomacy with local communities. Magical wards, knowledge of planar and natural forces, and expert tracking are tools the Enclave uses to safeguard forests, rivers, and other vulnerable ecosystems.&lt;/p&gt;
+&lt;p&gt;While generally idealistic and calm in demeanor, the Enclave can appear aloof or detached from human affairs, focusing on the long-term health of the world rather than immediate political concerns. They maintain alliances with groups like the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/harpers/&quot;&gt;Harpers&lt;/a&gt;, who share their interest in protecting free peoples and natural balance, though conflicts occasionally arise with other organizations, including the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt;, &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/iron-sigil/&quot;&gt;Iron Sigil&lt;/a&gt;, and even the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt; when expansion or exploitation threatens the environment.&lt;/p&gt;
+&lt;p&gt;The Emerald Enclave is recognized as a guardian of the natural world, its influence subtle yet enduring, preserving areas of ecological and magical significance across the region.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/emerald-enclave/" />
+        </entry>
+        <entry>
+            <title>
+                Dawnforged Circle
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/dawnforged-circle/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-dawnforged-circle-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Dawnforged Circle&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Dawnforged Circle&lt;/strong&gt; is an influential religious and civic organization devoted to promoting ethical conduct, moral principles, and societal stability throughout the region. Its members are often charismatic leaders and persuasive figures, advocating a vision of order grounded in faith and community responsibility.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Clerics&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;missionaries&lt;/a&gt;, and temple officials form the backbone of the Circle, employing both guidance and example to shape civic behavior. Charitable works, public preaching, and demonstrations of divine power are common methods by which they engage with the populace, cultivating respect, trust, and adherence to their principles.&lt;/p&gt;
+&lt;p&gt;The Dawnforged Circle is closely associated with other stabilizing forces, including the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/lord-s-alliance/&quot;&gt;Lord’s Alliance&lt;/a&gt; and the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/order-of-the-gauntlet/&quot;&gt;Order of the Gauntlet&lt;/a&gt;, forming a network of influence that extends across settlements, trade hubs, and governing bodies. At the same time, their mission occasionally brings them into tension with more clandestine or profit-driven factions, such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt; or the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/crimson-hand-consortium/&quot;&gt;Crimson Hand Consortium&lt;/a&gt;, as well as industrial groups whose practices run counter to the Circle’s moral directives.&lt;/p&gt;
+&lt;p&gt;Recognized for their combination of moral authority and social presence, the Dawnforged Circle exerts a quiet yet pervasive influence over regional politics, community affairs, and cultural norms, often shaping society without drawing notice to their hand.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/dawnforged-circle/" />
+        </entry>
+        <entry>
+            <title>
+                Crimson Hand Consortium
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-hand-consortium/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-crimson-hand-consortium-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crimson Hand Consortium&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;strong&gt;Crimson Hand Consortium&lt;/strong&gt; is a network of influential operatives and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;merchants&lt;/a&gt; who operate largely in the shadows, pursuing profit and power through calculated, often discreet, means. Members of the Consortium are known for their cunning and adaptability, able to navigate the shifting allegiances and rivalries of the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Sword Coast&lt;/a&gt; with subtlety and precision.&lt;/p&gt;
+&lt;p&gt;While the Consortium’s activities are rarely publicized, whispers of their involvement in trade disputes, clandestine contracts, and the occasional sabotage have made their reputation as a quietly formidable presence. They maintain extensive networks of spies, mercenaries, and hidden safehouses, enabling them to influence events far beyond the reach of ordinary observers.&lt;/p&gt;
+&lt;p&gt;The organization thrives on opportunism, forming temporary alliances when it suits their aims — whether with the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt;, local &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;merchant lords&lt;/a&gt;, or other ambitious &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/index/&quot;&gt;factions&lt;/a&gt; — but their loyalty is always to the Consortium itself. Rivalries exist with more principled or overtly protective groups, such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/dawnforged-circle/&quot;&gt;Dawnforged Circle&lt;/a&gt; or the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/order-of-the-gauntlet/&quot;&gt;Order of the Gauntlet&lt;/a&gt;, whose operations sometimes intersect with the Consortium’s clandestine interests.&lt;/p&gt;
+&lt;p&gt;The Crimson Hand Consortium is recognized less for displays of force than for its subtle, persistent influence. To many, they are the unseen hand shaping commerce, politics, and clandestine affairs across the region.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-hand-consortium/" />
+        </entry>
+        <entry>
+            <title>
+                Crimson Banner
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-banner/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-crimson-banner-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crimson Banner&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Motto:&lt;/strong&gt; &lt;em&gt;“Strength in vigilance.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Crimson Banner&lt;/strong&gt; is a renowned military organization responsible for safeguarding settlements and trade routes along the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Sword Coast&lt;/a&gt;. Its members are known for their discipline, boldness, and unwavering loyalty to the regions under their protection. Soldiers of the Banner are often seen training in the open fields outside their garrisons, maintaining patrols along borders, or overseeing the construction of fortifications meant to secure towns and key passages.&lt;/p&gt;
+&lt;p&gt;The Banner has earned a reputation as a force both dependable and formidable. While their presence reassures local communities, their strict adherence to order and procedure sometimes places them at odds with merchant guilds and more independent groups. Within the organization, hierarchy and training are paramount; officers are chosen for their strategic acumen, and soldiers take pride in their skill and reliability.&lt;/p&gt;
+&lt;p&gt;Though militaristic in nature, the Crimson Banner is not merely a hammer. Their scouts, patrols, and logistical networks reflect careful planning and coordination, ensuring that the Banner can respond efficiently to threats without unnecessary disruption to everyday life. Alliances with groups such as the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/order-of-the-gauntlet/&quot;&gt;Order of the Gauntlet&lt;/a&gt; bolster their capacity to maintain regional safety, though their methods and priorities occasionally put them in tension with less organized or more opportunistic factions, including certain mercantile interests and the enigmatic &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/zhentarim/&quot;&gt;Zhentarim&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Crimson Banner is recognized throughout the region as a symbol of steadfast protection and military precision — a body whose presence is as much about reassurance as it is about force.&lt;/p&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-banner/" />
+        </entry>
+        <entry>
+            <title>
                 Order of the Seventh Codex Home
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/</id>
             <content type="html">
                 &lt;hr /&gt;
@@ -116,11 +320,11 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;/ol&gt;
 &lt;p&gt;The Order acts not for glory, judgment, or dominion — but for vigilance, understanding, and preservation.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3 id=&quot;strong-the-grayharbor-chapter-strong&quot; tabindex=&quot;-1&quot;&gt;📖 &lt;strong&gt;The Grayharbor Chapter&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-the-campaigns-west-marches-style-public-locations-grayharbor-grayharbor-chapter-strong&quot; tabindex=&quot;-1&quot;&gt;📖 &lt;strong&gt;The &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt; Chapter&lt;/strong&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Where the seas meet the shelves of knowledge.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Headquartered in &lt;strong&gt;Grayharbor&lt;/strong&gt;, south of Candlekeep, this chapter serves as the &lt;strong&gt;central hub&lt;/strong&gt; of Order operations along the western coast.&lt;/p&gt;
+&lt;p&gt;Headquartered in &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt;&lt;/strong&gt;, south of Candlekeep, this chapter serves as the &lt;strong&gt;central hub&lt;/strong&gt; of Order operations along the western coast.&lt;/p&gt;
 &lt;p&gt;From this hall, members of the Order:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -133,7 +337,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;p&gt;Submit reports to be recorded as &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entries&lt;/a&gt;&lt;/strong&gt; for future generations.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The Grayharbor Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt; Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;strong-how-to-join-strong&quot; tabindex=&quot;-1&quot;&gt;🧭 &lt;strong&gt;How to Join&lt;/strong&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -142,7 +346,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;p&gt;Those who wish to serve need not petition kings or gods.&lt;br /&gt;
 They need only bring an open mind, a steady hand, and the willingness to record the truth.&lt;/p&gt;
 &lt;p&gt;To become a field member of the Order, &lt;strong&gt;apply within&lt;/strong&gt; —&lt;br /&gt;
-the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;br /&gt;
+the archivists of &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt; maintain a watchful eye for capable volunteers.&lt;br /&gt;
 (For out-of-character coordination, all inquiries are handled through the &lt;strong&gt;Discord Lodge&lt;/strong&gt;.)&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;strong-the-codex-strong&quot; tabindex=&quot;-1&quot;&gt;📘 &lt;strong&gt;The Codex&lt;/strong&gt;&lt;/h3&gt;
@@ -223,7 +427,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;All ranks are ceremonial within the Grayharbor Chapter. Every member may undertake missions, provided they record what they find.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;All ranks are ceremonial within the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt; Chapter. Every member may undertake missions, provided they record what they find.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;strong-traditions-of-the-order-strong&quot; tabindex=&quot;-1&quot;&gt;🕯️ &lt;strong&gt;Traditions of the Order&lt;/strong&gt;&lt;/h3&gt;
@@ -300,20 +504,134 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
                 Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/index/</id>
             <content type="html">
-                &lt;h1 id=&quot;locations&quot; tabindex=&quot;-1&quot;&gt;Locations&lt;/h1&gt;
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Grayharbor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
             </content>
             <link href="https://nt15mcp.github.io/nt15mcp.github.io/locations/index/" />
         </entry>
         <entry>
             <title>
+                Grayharbor
+                
+            </title>
+            <updated>2025-10-17T19:31:26Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/grayharbor/</id>
+            <content type="html">
+                &lt;h1 id=&quot;strong-grayharbor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Grayharbor&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;“Where the tides meet the streets.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Grayharbor is a modest harbor town on the Sword Coast, south of Candlekeep. With a population of roughly 4,200 residents, it is a hub of maritime trade, scholarship, and artisanal craft. The town is known for its fog-swept streets, bustling market, and maritime heritage.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Region:&lt;/strong&gt; Sword Coast&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Population:&lt;/strong&gt; ~4,200 (predominantly human and half-elven)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Government:&lt;/strong&gt; Council of Harborwardens, representing merchants, artisans, and civic officials&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Known For:&lt;/strong&gt; Busy docks, market trade, and scenic coastal vistas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Atmosphere:&lt;/strong&gt; Quietly industrious; a mix of scholars, sailors, and tradesfolk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;town-layout&quot; tabindex=&quot;-1&quot;&gt;Town Layout&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;District&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Old Quay&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Historic harbor area with weathered piers and taverns. Smell of brine mixes with roasted fish and market goods.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Scholar’s Rise&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Elevated section of town with lecture halls, libraries, and private residences. Offers views of the coastline.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Market Row&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Busy street lined with warehouses, stalls, and specialty shops. Trade in manuscripts, maps, and maritime supplies is common.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Mistward Walls&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Residential quarter on higher ground, home to artisans and wealthier families. Fog rolls in from the bay.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Deepwater Shrine&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Seaside grotto dedicated to local maritime deities. Serves as a spiritual and cultural site for townsfolk.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;life-in-grayharbor&quot; tabindex=&quot;-1&quot;&gt;Life in Grayharbor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Climate:&lt;/strong&gt; Cool maritime, frequent fog, occasional rain, brilliant sunsets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Economy:&lt;/strong&gt; Fishing, shipping, mapmaking, manuscript trade, and local crafts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visitors:&lt;/strong&gt; Scholars, merchants, travelers, and occasional performers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customs:&lt;/strong&gt; Greeting newcomers with &lt;em&gt;“May your tide be fair”&lt;/em&gt; is common among locals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;local-observances&quot; tabindex=&quot;-1&quot;&gt;Local Observances&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lanterns of the Deep (Midwinter):&lt;/strong&gt; Floating paper lanterns are set adrift to honor those lost at sea&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quill’s Blessing (Spring):&lt;/strong&gt; Local scribes dedicate first writings of the year to the town’s libraries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tide’s Rest (Full Moon):&lt;/strong&gt; Shops close early; townsfolk gather at the waterfront for readings, music, and conversation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;points-of-interest&quot; tabindex=&quot;-1&quot;&gt;Points of Interest&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Site&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Beacon Tower&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Historic lighthouse and watchtower visible from miles out at sea.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Cartographer’s Row&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Cluster of map shops offering charts and navigational tools.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Harbor Market&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Central market for seafood, goods, and imported wares.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Whispering Jetty&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Jetty known for quiet reflection and poetic recitals when the tide is right.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;civic-administration&quot; tabindex=&quot;-1&quot;&gt;Civic Administration&lt;/h2&gt;
+&lt;p&gt;Grayharbor is managed by the &lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Council of Harborwardens&lt;/a&gt;&lt;/strong&gt;, composed of elected representatives from merchants, artisans, and civic officials. Council meetings are open to the public and often accompanied by communal gatherings at the waterfront.&lt;/p&gt;
+&lt;hr /&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/locations/grayharbor/" />
+        </entry>
+        <entry>
+            <title>
                 Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;cultures&quot; tabindex=&quot;-1&quot;&gt;Cultures&lt;/h1&gt;
@@ -326,7 +644,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
                 Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entries-index&quot; tabindex=&quot;-1&quot;&gt;Codex Entries (Index)&lt;/h1&gt;
@@ -339,7 +657,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
                 Codex Entry Template
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-entry-template/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entry-template&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entry Template&lt;/h1&gt;
@@ -427,10 +745,10 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
         </entry>
         <entry>
             <title>
-                Artifacts
+                Index
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;artifacts&quot; tabindex=&quot;-1&quot;&gt;Artifacts&lt;/h1&gt;
@@ -443,7 +761,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
                 Active Missions
                 
             </title>
-            <updated>2025-10-17T18:19:29Z</updated>
+            <updated>2025-10-17T19:31:26Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/active-missions/</id>
             <content type="html">
                 &lt;h1 id=&quot;active-missions&quot; tabindex=&quot;-1&quot;&gt;Active Missions&lt;/h1&gt;
