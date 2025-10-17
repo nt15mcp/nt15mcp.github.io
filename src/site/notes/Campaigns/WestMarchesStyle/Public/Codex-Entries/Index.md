@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Codex-Entries/Index.md","permalink":"/codex-entries/index/","dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Codex-Entries/Index.md","permalink":"/codex-entries/index/","tags":["codex"],"dgShowFileTree":true}
 ---
 
 # Codex Entries (Index)

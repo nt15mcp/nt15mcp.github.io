@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/Index.md","permalink":"/locations/index/","dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Locations/Index.md","permalink":"/locations/index/","tags":["location"],"dgShowFileTree":true}
 ---
 
-# Locations
+
+| Location   |
+| ---------- |
+| Grayharbor |

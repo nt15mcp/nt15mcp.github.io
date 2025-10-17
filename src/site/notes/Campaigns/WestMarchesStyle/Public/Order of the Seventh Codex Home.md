@@ -28,11 +28,11 @@ The Order acts not for glory, judgment, or dominion — but for vigilance, under
 
 ---
 
-### 📖 **The Grayharbor Chapter**
+### 📖 **The [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Chapter**
 
 > _“Where the seas meet the shelves of knowledge.”_
 
-Headquartered in **Grayharbor**, south of Candlekeep, this chapter serves as the **central hub** of Order operations along the western coast.
+Headquartered in **[[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]**, south of Candlekeep, this chapter serves as the **central hub** of Order operations along the western coast.
 
 From this hall, members of the Order:
 
@@ -43,7 +43,7 @@ From this hall, members of the Order:
 - Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/Index\|Codex Entries]]** for future generations.
     
 
-The Grayharbor Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.
+The [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.
 
 ---
 
@@ -55,7 +55,7 @@ Those who wish to serve need not petition kings or gods.
 They need only bring an open mind, a steady hand, and the willingness to record the truth.
 
 To become a field member of the Order, **apply within** —  
-the archivists of Grayharbor maintain a watchful eye for capable volunteers.  
+the archivists of [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] maintain a watchful eye for capable volunteers.  
 (For out-of-character coordination, all inquiries are handled through the **Discord Lodge**.)
 
 ---
@@ -74,7 +74,7 @@ See:
 	
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]] — jobs available
     
-- [[Campaigns/WestMarchesStyle/Public/Artifacts/index\|Recovered Artifacts & Phenomena]] — notable finds and objects
+- [[Campaigns/WestMarchesStyle/Public/Artifacts/Index\|Recovered Artifacts & Phenomena]] — notable finds and objects
     
 
 ---
@@ -104,7 +104,7 @@ Ranks serve as **honorary titles**, reflecting dedication to the mission — not
 | 9    | **Magister**      |
 | 10   | **Grand Curator** |
 
-> _All ranks are ceremonial within the Grayharbor Chapter. Every member may undertake missions, provided they record what they find._
+> _All ranks are ceremonial within the [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Chapter. Every member may undertake missions, provided they record what they find._
 
 ---
 

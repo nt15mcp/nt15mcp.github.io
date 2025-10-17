@@ -17,7 +17,7 @@ Once an expedition is formed, the rumor is moved to [[Campaigns/WestMarchesStyle
 
 | Rumor Title | Origin / Source | Status | Notes |
 |--------------|----------------|---------|-------|
-| [[R001 - The Singing Barrow\|R001 - The Singing Barrow]] | Shepherds near Grayharbor | 🕵️ Unconfirmed | Strange harmonics from beneath old tomb. |
+| [[R001 - The Singing Barrow\|R001 - The Singing Barrow]] | Shepherds near [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] | 🕵️ Unconfirmed | Strange harmonics from beneath old tomb. |
 | [[R002 - The Shattered Sky\|R002 - The Shattered Sky]] | Sailors’ logbook, Sword Coast | 🕵️ Unconfirmed | Reports of lights and rifts above the sea at dusk. |
 | [[R003 - The Crimson Orchard\|R003 - The Crimson Orchard]] | Merchant caravan survivor | 🕵️ Unconfirmed | Trees bearing blood-red fruit overnight. |
 
