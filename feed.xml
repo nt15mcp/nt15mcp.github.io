@@ -3,14 +3,14 @@
     <title>Order of the Seventh Codex</title>
     <link href="https://nt15mcp.github.io/nt15mcp.github.io/feed.xml" rel="self" />
     <link href="https://nt15mcp.github.io/nt15mcp.github.io" />
-    <updated>2025-10-17T03:14:15Z</updated>
+    <updated>2025-10-17T17:57:27Z</updated>
     <id>https://nt15mcp.github.io/nt15mcp.github.io</id>
         <entry>
             <title>
                 Rumors &amp; Leads
                 
             </title>
-            <updated>2025-10-17T03:13:52Z</updated>
+            <updated>2025-10-17T17:57:13Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/rumors-and-leads/</id>
             <content type="html">
                 &lt;h1 id=&quot;rumors-and-amp-leads&quot; tabindex=&quot;-1&quot;&gt;🌿 Rumors &amp;amp; Leads&lt;/h1&gt;
@@ -54,17 +54,43 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;/table&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;completed-leads&quot; tabindex=&quot;-1&quot;&gt;Completed Leads&lt;/h3&gt;
-&lt;p&gt;(See: &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries-index/&quot;&gt;Codex Entries (Index)&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(See: &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Codex Entries (Index)&lt;/a&gt;)&lt;/p&gt;
 
             </content>
             <link href="https://nt15mcp.github.io/nt15mcp.github.io/rumors-and-leads/" />
         </entry>
         <entry>
             <title>
+                Index
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/people/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;people&quot; tabindex=&quot;-1&quot;&gt;People&lt;/h1&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/people/index/" />
+        </entry>
+        <entry>
+            <title>
+                Index
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;organizations&quot; tabindex=&quot;-1&quot;&gt;Organizations&lt;/h1&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/organizations/index/" />
+        </entry>
+        <entry>
+            <title>
                 Order of the Seventh Codex Home
                 
             </title>
-            <updated>2025-10-17T03:13:52Z</updated>
+            <updated>2025-10-17T17:57:13Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/</id>
             <content type="html">
                 &lt;hr /&gt;
@@ -104,7 +130,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
 &lt;p&gt;Form temporary &lt;strong&gt;Field Parties&lt;/strong&gt; to investigate pressing anomalies.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Submit reports to be recorded as &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries-index/&quot;&gt;Codex Entries (Index)&lt;/a&gt;&lt;/strong&gt; for future generations.&lt;/p&gt;
+&lt;p&gt;Submit reports to be recorded as &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entries&lt;/a&gt;&lt;/strong&gt; for future generations.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The Grayharbor Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.&lt;/p&gt;
@@ -125,7 +151,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
 &lt;p&gt;See:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries-index/&quot;&gt;Codex Entries (Index)&lt;/a&gt; — completed records&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entries&lt;/a&gt; — completed records&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/rumors-and-leads/&quot;&gt;Rumors &amp;amp; Leads&lt;/a&gt; — ongoing investigations&lt;/p&gt;
@@ -134,13 +160,12 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/active-missions/&quot;&gt;Active Missions&lt;/a&gt; — jobs available&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Recovered Artifacts &amp;amp; Phenomena&lt;/a&gt; — notable finds and objects&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/artifacts/index/&quot;&gt;Recovered Artifacts &amp;amp; Phenomena&lt;/a&gt; — notable finds and objects&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;strong-field-reporting-template-strong&quot; tabindex=&quot;-1&quot;&gt;✍️ &lt;strong&gt;Field Reporting Template&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;When submitting a report to the Codex, use the &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entry-template/&quot;&gt;Codex Entry Template&lt;/a&gt;&lt;/strong&gt; (below).&lt;/p&gt;
-&lt;p&gt;→ &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entry-template/&quot;&gt;Codex Entry Template&lt;/a&gt; ← (link to your provided format)&lt;/p&gt;
+&lt;p&gt;When submitting a report to the Codex, use the &lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/codex-entry-template/&quot;&gt;Codex Entry Template&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;The Codex does not judge success or failure — only what was observed, recorded, and learned.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -244,7 +269,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/active-missions/&quot;&gt;Active Missions&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries-index/&quot;&gt;Codex Entries (Index)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entries&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Artifacts &amp;amp; Anomalies&lt;/a&gt;&lt;/p&gt;
@@ -272,10 +297,177 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
         </entry>
         <entry>
             <title>
+                Navigation
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/navigation/</id>
+            <content type="html">
+                &lt;h2 id=&quot;navigation&quot; tabindex=&quot;-1&quot;&gt;Navigation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entries&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/codex-entry-template/&quot;&gt;Codex Entry Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/index/&quot;&gt;Locations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/people/index/&quot;&gt;People&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/cultures/index/&quot;&gt;Cultures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/organizations/index/&quot;&gt;Organizations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/artifacts/index/&quot;&gt;Artifacts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/navigation/" />
+        </entry>
+        <entry>
+            <title>
+                Index
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;locations&quot; tabindex=&quot;-1&quot;&gt;Locations&lt;/h1&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/locations/index/" />
+        </entry>
+        <entry>
+            <title>
+                Index
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;cultures&quot; tabindex=&quot;-1&quot;&gt;Cultures&lt;/h1&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/cultures/index/" />
+        </entry>
+        <entry>
+            <title>
+                Index
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;codex-entries&quot; tabindex=&quot;-1&quot;&gt;Codex Entries&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“All knowledge preserved, all truth recorded.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This archive lists completed missions and documented phenomena.&lt;br /&gt;
+Each entry represents the collective work of one or more field parties of the Order.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;completed-entries&quot; tabindex=&quot;-1&quot;&gt;Completed Entries&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-dataview&quot;&gt;table date as &amp;quot;Date&amp;quot;, region as &amp;quot;Region&amp;quot;, outcome as &amp;quot;Outcome&amp;quot;
+from &amp;quot;Codex Entries&amp;quot;
+sort date desc
+&lt;/code&gt;&lt;/pre&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/index/" />
+        </entry>
+        <entry>
+            <title>
                 Codex Entry Template
                 
             </title>
-            <updated>2025-10-17T03:13:52Z</updated>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-entry-template/</id>
+            <content type="html">
+                &lt;h1 id=&quot;codex-entry-template&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entry Template&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Filed under the authority of the Order of the Seventh Codex.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-mission-summary-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Mission Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reference #:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date / Region / Chapter:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Field Party Members:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mission Objective:&lt;/strong&gt; &lt;em&gt;(as understood before departure)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; &lt;em&gt;(success, partial success, failure, ongoing)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-anomaly-or-phenomenon-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Anomaly or Phenomenon&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Classification:&lt;/strong&gt; &lt;em&gt;(creature, magical effect, artifact, location, cult, rumor, unknown)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observed Behavior / Traits:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Suspected Origin:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Potential Impact:&lt;/strong&gt; &lt;em&gt;(local, regional, planar; immediate or latent)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; &lt;em&gt;(neutralized, contained, ongoing, unresolved)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-actions-taken-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Actions Taken&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Methods Used:&lt;/strong&gt; &lt;em&gt;(investigation, diplomacy, combat, containment, ritual, etc.)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Discoveries:&lt;/strong&gt; &lt;em&gt;(clues, lore, revelations, maps, texts, relics)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Allies / Adversaries Encountered:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Casualties / Losses (if any):&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-recommendations-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Further Action Needed:&lt;/strong&gt; &lt;em&gt;(monitor, follow-up, secure site, send specialists)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hazards / Warnings:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Suggested Classification Level:&lt;/strong&gt; &lt;em&gt;(common knowledge / restricted / sealed)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-recovered-items-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Recovered Items&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item Name / Description&lt;/th&gt;
+&lt;th&gt;Status&lt;/th&gt;
+&lt;th&gt;Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;[ ] Turned Over to Guild Vault&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;[ ] Retained by Field Agent&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;[ ] Destroyed / Lost&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;(Attach sketches, maps, or rubbings as needed)&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;strong-abstract-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Write a concise 2–3 sentence summary suitable for indexing into the Codex.&lt;br /&gt;
+&lt;em&gt;Example: “A spectral wolf haunting the Frostmere Woods was discovered to be the remnant of a cursed druid. Binding ritual restored peace to the region. Recommend monitoring lunar cycles for recurrence.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Filed By:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Rank / Name:&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Submit completed reports to the &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Codex Entries (Index)&lt;/a&gt; via the Grayharbor archives.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-entry-template/" />
+        </entry>
+        <entry>
+            <title>
+                Codex Entry Template
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entry-template/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entry-template&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entry Template&lt;/h1&gt;
@@ -366,7 +558,7 @@ the archivists of Grayharbor maintain a watchful eye for capable volunteers.&lt;
                 Codex Entries (Index)
                 
             </title>
-            <updated>2025-10-17T03:13:52Z</updated>
+            <updated>2025-10-17T17:57:13Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries-index/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entries-index&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entries (Index)&lt;/h1&gt;
@@ -387,18 +579,31 @@ sort date desc
         </entry>
         <entry>
             <title>
+                Artifacts
+                
+            </title>
+            <updated>2025-10-17T17:57:13Z</updated>
+            <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/index/</id>
+            <content type="html">
+                &lt;h1 id=&quot;artifacts&quot; tabindex=&quot;-1&quot;&gt;Artifacts&lt;/h1&gt;
+
+            </content>
+            <link href="https://nt15mcp.github.io/nt15mcp.github.io/artifacts/index/" />
+        </entry>
+        <entry>
+            <title>
                 Active Missions
                 
             </title>
-            <updated>2025-10-17T03:13:52Z</updated>
+            <updated>2025-10-17T17:57:13Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/active-missions/</id>
             <content type="html">
-                &lt;h1 id=&quot;active-missions&quot; tabindex=&quot;-1&quot;&gt;⚔️ Active Missions&lt;/h1&gt;
+                &lt;h1 id=&quot;active-missions&quot; tabindex=&quot;-1&quot;&gt;Active Missions&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“The field is the truest teacher.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here are ongoing investigations currently undertaken by members of the Order.&lt;br /&gt;
-When a mission concludes, its report is filed as a new &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries-index/&quot;&gt;Codex Entry&lt;/a&gt;.&lt;/p&gt;
+When a mission concludes, its report is filed as a new &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Codex Entry&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;table&gt;
 &lt;thead&gt;
