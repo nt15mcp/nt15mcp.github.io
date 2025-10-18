@@ -140,20 +140,17 @@ Read more: [[Origins of the Order\|Origins of the Order]]
 
 ### 📂 **Useful Links**
 
-- [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]]
-    
-- [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]]
-    
+- [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Whispers & Hearsay]]
+- [[Campaigns/WestMarchesStyle/Public/Active Missions\|Contracts]]
 - [[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]]
-    
-- [[Artifacts & Anomalies\|Artifacts & Anomalies]]
-    
-- [[Notable Members\|Notable Members]]
-    
-- [[Guild Traditions & Culture\|Guild Traditions & Culture]]
-    
-- [[Grayharbor (Town Overview)\|Grayharbor (Town Overview)]]
-    
+- [[Campaigns/WestMarchesStyle/Public/Artifacts/_Index\|Relics of Power]]
+- [[Notable Members\|Heroes of Grayharbor]]
+- [[Guild Traditions & Culture\|Customs & Lore of the Guild]]
+- [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|The Town of Grayharbor]]
+- [[Campaigns/WestMarchesStyle/Public/Locations/_Index\|Wider Lands & Wilds]]
+- [[Campaigns/WestMarchesStyle/Public/Cultures/_Index\|Cultures & Traditions]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/_Index\|Orders, Guilds, and Alliances]]
+- [[Campaigns/WestMarchesStyle/Public/People/_Index\|Notable Souls & Agents]]
 
 ---
 

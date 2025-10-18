@@ -11,3 +11,11 @@ Members of the Harpers are typically idealistic and morally principled, yet flex
 The organization often collaborates with groups that share similar goals, such as the [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]] and the [[Campaigns/WestMarchesStyle/Public/Organizations/Emerald Enclave\|Emerald Enclave]], leveraging alliances to advance stability and safeguard communities. However, their activities can place them at odds with more overtly aggressive or opportunistic factions, including the [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]] and the [[Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay\|Red Wizards of Thay]], whose ambitions sometimes threaten the balance the Harpers strive to protect.
 
 The Harpers are recognized not for martial might but for subtle influence and strategic insight, acting as unseen stewards of knowledge and guardians against tyranny throughout the region.
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Caelith Veyran\|Caelith Veyran]]
+- [[Campaigns/WestMarchesStyle/Public/People/Lysara Nymell\|Lysara Nymell]]
+- [[Campaigns/WestMarchesStyle/Public/People/Serina Vaelor\|Serina Vaelor]]
+- [[Campaigns/WestMarchesStyle/Public/People/Taren Duskwalker\|Taren Duskwalker]]
+
+{ .block-language-dataview}

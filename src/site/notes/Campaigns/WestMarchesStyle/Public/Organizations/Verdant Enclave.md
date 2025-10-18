@@ -9,3 +9,11 @@ The **Verdant Enclave** is a cooperative organization dedicated to the stewardsh
 Known for their patience and idealism, the Verdant Enclave emphasizes collaboration with [[villages\|villages]], [[farmers\|farmers]], and local authorities. They employ magical enhancements to crops, implement cooperative farming initiatives, and run educational campaigns to encourage sustainable practices. While their efforts are primarily constructive and community-focused, they sometimes clash with mercantile interests or industrial groups, such as [[Campaigns/WestMarchesStyle/Public/Cultures/Merchant Lords\|merchant lords]] or the [[Campaigns/WestMarchesStyle/Public/Organizations/Iron Sigil\|Iron Sigil]], whose priorities may threaten the balance of cultivated lands.
 
 Allied with the [[Campaigns/WestMarchesStyle/Public/Organizations/Emerald Enclave\|Emerald Enclave]], the Verdant Enclave complements broader efforts to maintain ecological stability, focusing specifically on the health and resilience of agricultural landscapes. Their influence is often subtle, yet it shapes the livelihoods and sustainability of communities across the region.
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Bromir Stoneleaf\|Bromir Stoneleaf]]
+- [[Campaigns/WestMarchesStyle/Public/People/Selwyn Farrowind\|Selwyn Farrowind]]
+- [[Campaigns/WestMarchesStyle/Public/People/Thalindra Greenbough\|Thalindra Greenbough]]
+- [[Campaigns/WestMarchesStyle/Public/People/Thessa Willowbark\|Thessa Willowbark]]
+
+{ .block-language-dataview}

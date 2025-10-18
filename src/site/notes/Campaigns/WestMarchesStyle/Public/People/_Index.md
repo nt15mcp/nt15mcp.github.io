@@ -50,5 +50,15 @@
 - [[Campaigns/WestMarchesStyle/Public/People/Tharic Nightbriar\|Tharic Nightbriar]]
 - [[Campaigns/WestMarchesStyle/Public/People/Tharion Vexalis\|Tharion Vexalis]]
 - [[Campaigns/WestMarchesStyle/Public/People/Theren Oakshadow\|Theren Oakshadow]]
+- [[Campaigns/WestMarchesStyle/Public/People/Selene Windwhisper\|Selene Windwhisper]]
+- [[Campaigns/WestMarchesStyle/Public/People/Selindria Nightbloom\|Selindria Nightbloom]]
+- [[Campaigns/WestMarchesStyle/Public/People/Thessa Willowbark\|Thessa Willowbark]]
+- [[Campaigns/WestMarchesStyle/Public/People/Torric Veynhall\|Torric Veynhall]]
+- [[Campaigns/WestMarchesStyle/Public/People/Vareth Malcor\|Vareth Malcor]]
+- [[Campaigns/WestMarchesStyle/Public/People/Vashara Teldryn\|Vashara Teldryn]]
+- [[Campaigns/WestMarchesStyle/Public/People/Veylan Korrath\|Veylan Korrath]]
+- [[Campaigns/WestMarchesStyle/Public/People/Veylindar Shadewell\|Veylindar Shadewell]]
+- [[Campaigns/WestMarchesStyle/Public/People/Veyra Halcorne\|Veyra Halcorne]]
+- [[Campaigns/WestMarchesStyle/Public/People/Zyphira Nareth\|Zyphira Nareth]]
 
 { .block-language-dataview}

@@ -11,3 +11,12 @@ While the Consortium’s activities are rarely publicized, whispers of their inv
 The organization thrives on opportunism, forming temporary alliances when it suits their aims — whether with the [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]], local [[Campaigns/WestMarchesStyle/Public/Cultures/Merchant Lords\|merchant lords]], or other ambitious [[Campaigns/WestMarchesStyle/Public/Organizations/_Index\|factions]] — but their loyalty is always to the Consortium itself. Rivalries exist with more principled or overtly protective groups, such as the [[Campaigns/WestMarchesStyle/Public/Organizations/Dawnforged Circle\|Dawnforged Circle]] or the [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]], whose operations sometimes intersect with the Consortium’s clandestine interests.
 
 The Crimson Hand Consortium is recognized less for displays of force than for its subtle, persistent influence. To many, they are the unseen hand shaping commerce, politics, and clandestine affairs across the region.
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Elsera Myrren\|Elsera Myrren]]
+- [[Campaigns/WestMarchesStyle/Public/People/Mirra Kestrel\|Mirra Kestrel]]
+- [[Campaigns/WestMarchesStyle/Public/People/Orren Vale\|Orren Vale]]
+- [[Campaigns/WestMarchesStyle/Public/People/Tharic Nightbriar\|Tharic Nightbriar]]
+- [[Campaigns/WestMarchesStyle/Public/People/Vareth Malcor\|Vareth Malcor]]
+
+{ .block-language-dataview}

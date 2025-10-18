@@ -11,3 +11,12 @@ The **Dawnforged Circle** is an influential religious and civic organization dev
 The Dawnforged Circle is closely associated with other stabilizing forces, including the [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]] and the [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]], forming a network of influence that extends across settlements, trade hubs, and governing bodies. At the same time, their mission occasionally brings them into tension with more clandestine or profit-driven factions, such as the [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]] or the [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Hand Consortium\|Crimson Hand Consortium]], as well as industrial groups whose practices run counter to the Circle’s moral directives.
 
 Recognized for their combination of moral authority and social presence, the Dawnforged Circle exerts a quiet yet pervasive influence over regional politics, community affairs, and cultural norms, often shaping society without drawing notice to their hand.
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Brother Halric Durn\|Brother Halric Durn]]
+- [[Campaigns/WestMarchesStyle/Public/People/Sister Lyrielle Dawnmantle\|Sister Lyrielle Dawnmantle]]
+- [[Campaigns/WestMarchesStyle/Public/People/Maeron Vale\|Maeron Vale]]
+- [[Campaigns/WestMarchesStyle/Public/People/Archmage Pelanor Brightstar\|Archmage Pelanor Brightstar]]
+- [[Campaigns/WestMarchesStyle/Public/People/Seraphine Vael\|Seraphine Vael]]
+
+{ .block-language-dataview}

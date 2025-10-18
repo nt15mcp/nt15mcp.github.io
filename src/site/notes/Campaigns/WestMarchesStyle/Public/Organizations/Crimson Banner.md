@@ -13,3 +13,13 @@ The Banner has earned a reputation as a force both dependable and formidable. Wh
 Though militaristic in nature, the Crimson Banner is not merely a hammer. Their scouts, patrols, and logistical networks reflect careful planning and coordination, ensuring that the Banner can respond efficiently to threats without unnecessary disruption to everyday life. Alliances with groups such as the [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]] bolster their capacity to maintain regional safety, though their methods and priorities occasionally put them in tension with less organized or more opportunistic factions, including certain mercantile interests and the enigmatic [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]].
 
 The Crimson Banner is recognized throughout the region as a symbol of steadfast protection and military precision — a body whose presence is as much about reassurance as it is about force.
+
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Durn Mavrek\|Durn Mavrek]]
+- [[Campaigns/WestMarchesStyle/Public/People/Kaenrik Dravoss\|Kaenrik Dravoss]]
+- [[Campaigns/WestMarchesStyle/Public/People/Liora Kethryn\|Liora Kethryn]]
+- [[Campaigns/WestMarchesStyle/Public/People/Rhea Vorn\|Rhea Vorn]]
+- [[Campaigns/WestMarchesStyle/Public/People/Serath Durnhald\|Serath Durnhald]]
+
+{ .block-language-dataview}

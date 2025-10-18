@@ -13,3 +13,11 @@ The organization is structured into specialized divisions known as _sub-orders_,
 While the organization occasionally forms opportunistic alliances with groups such as the [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]] or even the [[Campaigns/WestMarchesStyle/Public/Organizations/Harpers\|Harpers]], their methods and ambitions frequently bring them into tension with other factions, including the [[Campaigns/WestMarchesStyle/Public/Organizations/Emerald Enclave\|Emerald Enclave]] and the [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]], whose priorities or ethical frameworks can conflict with the Red Wizards’ pursuits.
 
 The Red Wizards of Thay are recognized as formidable practitioners of magic, combining secrecy, ambition, and scholarly precision to extend their influence and advance the understanding — and control — of arcane forces.
+
+#### Known Operatives
+- [[Campaigns/WestMarchesStyle/Public/People/Doranis Krynn\|Doranis Krynn]]
+- [[Campaigns/WestMarchesStyle/Public/People/Korrath Zeyl\|Korrath Zeyl]]
+- [[Campaigns/WestMarchesStyle/Public/People/Tharion Vexalis\|Tharion Vexalis]]
+- [[Campaigns/WestMarchesStyle/Public/People/Selindria Nightbloom\|Selindria Nightbloom]]
+
+{ .block-language-dataview}
