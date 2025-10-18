@@ -3,52 +3,54 @@
 ---
 
 
-| People                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| [Althea Carrick](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Althea%20Carrick.md)                             |
-| [Archmage Pelanor Brightstar](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Archmage%20Pelanor%20Brightstar.md) |
-| [Branthor Kilnforge](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Branthor%20Kilnforge.md)                     |
-| [Bromir Stoneleaf](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Bromir%20Stoneleaf.md)                         |
-| [Brother Halric Durn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Brother%20Halric%20Durn.md)                 |
-| [Brother Kaelen Ironstride](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Brother%20Kaelen%20Ironstride.md)     |
-| [Caelith Veyran](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Caelith%20Veyran.md)                             |
-| [Doranis Krynn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Doranis%20Krynn.md)                               |
-| [Dorian Veyric](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Dorian%20Veyric.md)                               |
-| [Durn Mavrek](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Durn%20Mavrek.md)                                   |
-| [Elenya Veyrin](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Elenya%20Veyrin.md)                               |
-| [Elowen Starshield](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Elowen%20Starshield.md)                       |
-| [Elsera Myrren](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Elsera%20Myrren.md)                               |
-| [Garron Ashvale](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Garron%20Ashvale.md)                             |
-| [Gorath Stonebark](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Gorath%20Stonebark.md)                         |
-| [Jorvan Thalrik](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Jorvan%20Thalrik.md)                             |
-| [Jorvik Drelan](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Jorvik%20Drelan.md)                               |
-| [Kaelric Dravemont](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Kaelric%20Dravemont.md)                       |
-| [Kaenrik Dravoss](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Kaenrik%20Dravoss.md)                           |
-| [Korrath Zeyl](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Korrath%20Zeyl.md)                                 |
-| [Korrim Blackthorn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Korrim%20Blackthorn.md)                       |
-| [Lady Arannis Valewyn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Lady%20Arannis%20Valewyn.md)               |
-| [Liora Kethryn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Liora%20Kethryn.md)                               |
-| [Loryn Veynar](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Loryn%20Veynar.md)                                 |
-| [Lysara Nymell](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Lysara%20Nymell.md)                               |
-| [Maeron Vale](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Maeron%20Vale.md)                                   |
-| [Mirra Kestrel](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Mirra%20Kestrel.md)                               |
-| [Orren Vale](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Orren%20Vale.md)                                     |
-| [Ravik Dreshan](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Ravik%20Dreshan.md)                               |
-| [Rhea Vorn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Rhea%20Vorn.md)                                       |
-| [Selara Tyndall](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Selara%20Tyndall.md)                             |
-| [Selric Dornwell](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Selric%20Dornwell.md)                           |
-| [Selwyn Farrowind](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Selwyn%20Farrowind.md)                         |
-| [Seraphine Vael](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Seraphine%20Vael.md)                             |
-| [Serath Durnhald](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Serath%20Durnhald.md)                           |
-| [Serina Vaelor](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Serina%20Vaelor.md)                               |
-| [Sister Lyrielle Dawnmantle](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Sister%20Lyrielle%20Dawnmantle.md)   |
-| [Sylthara Veynn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Sylthara%20Veynn.md)                             |
-| [Sylvara Brightbough](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Sylvara%20Brightbough.md)                   |
-| [Sylvara Moonshear](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Sylvara%20Moonshear.md)                       |
-| [Taren Duskwalker](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Taren%20Duskwalker.md)                         |
-| [Tavric Hallowthorn](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Tavric%20Hallowthorn.md)                     |
-| [Thalindra Greenbough](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Thalindra%20Greenbough.md)                 |
-| [Thalric Emberfall](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Thalric%20Emberfall.md)                       |
-| [Tharic Nightbriar](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Tharic%20Nightbriar.md)                       |
-| [Tharion Vexalis](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Tharion%20Vexalis.md)                           |
-| [Theren Oakshadow](app://obsidian.md/Campaigns/WestMarchesStyle/Public/People/Theren%20Oakshadow.md)                         |
+| File                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- |
+| [[Campaigns/WestMarchesStyle/Public/People/Althea Carrick\|Althea Carrick]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Branthor Kilnforge\|Branthor Kilnforge]]                   |
+| [[Campaigns/WestMarchesStyle/Public/People/Bromir Stoneleaf\|Bromir Stoneleaf]]                       |
+| [[Campaigns/WestMarchesStyle/Public/People/Caelith Veyran\|Caelith Veyran]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Doranis Krynn\|Doranis Krynn]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Dorian Veyric\|Dorian Veyric]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Durn Mavrek\|Durn Mavrek]]                                 |
+| [[Campaigns/WestMarchesStyle/Public/People/Elenya Veyrin\|Elenya Veyrin]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Elowen Starshield\|Elowen Starshield]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Elsera Myrren\|Elsera Myrren]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Garron Ashvale\|Garron Ashvale]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Gorath Stonebark\|Gorath Stonebark]]                       |
+| [[Campaigns/WestMarchesStyle/Public/People/Brother Halric Durn\|Brother Halric Durn]]                 |
+| [[Campaigns/WestMarchesStyle/Public/People/Jorvan Thalrik\|Jorvan Thalrik]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Jorvik Drelan\|Jorvik Drelan]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Brother Kaelen Ironstride\|Brother Kaelen Ironstride]]     |
+| [[Campaigns/WestMarchesStyle/Public/People/Kaelric Dravemont\|Kaelric Dravemont]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Kaenrik Dravoss\|Kaenrik Dravoss]]                         |
+| [[Campaigns/WestMarchesStyle/Public/People/Korrath Zeyl\|Korrath Zeyl]]                               |
+| [[Campaigns/WestMarchesStyle/Public/People/Korrim Blackthorn\|Korrim Blackthorn]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Lady Arannis Valewyn\|Lady Arannis Valewyn]]               |
+| [[Campaigns/WestMarchesStyle/Public/People/Liora Kethryn\|Liora Kethryn]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Loryn Veynar\|Loryn Veynar]]                               |
+| [[Campaigns/WestMarchesStyle/Public/People/Sister Lyrielle Dawnmantle\|Sister Lyrielle Dawnmantle]]   |
+| [[Campaigns/WestMarchesStyle/Public/People/Lysara Nymell\|Lysara Nymell]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Maeron Vale\|Maeron Vale]]                                 |
+| [[Campaigns/WestMarchesStyle/Public/People/Mirra Kestrel\|Mirra Kestrel]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Orren Vale\|Orren Vale]]                                   |
+| [[Campaigns/WestMarchesStyle/Public/People/Archmage Pelanor Brightstar\|Archmage Pelanor Brightstar]] |
+| [[Campaigns/WestMarchesStyle/Public/People/Ravik Dreshan\|Ravik Dreshan]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Rhea Vorn\|Rhea Vorn]]                                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Selara Tyndall\|Selara Tyndall]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Selric Dornwell\|Selric Dornwell]]                         |
+| [[Campaigns/WestMarchesStyle/Public/People/Selwyn Farrowind\|Selwyn Farrowind]]                       |
+| [[Campaigns/WestMarchesStyle/Public/People/Seraphine Vael\|Seraphine Vael]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Serath Durnhald\|Serath Durnhald]]                         |
+| [[Campaigns/WestMarchesStyle/Public/People/Serina Vaelor\|Serina Vaelor]]                             |
+| [[Campaigns/WestMarchesStyle/Public/People/Sylthara Veynn\|Sylthara Veynn]]                           |
+| [[Campaigns/WestMarchesStyle/Public/People/Sylvara Brightbough\|Sylvara Brightbough]]                 |
+| [[Campaigns/WestMarchesStyle/Public/People/Sylvara Moonshear\|Sylvara Moonshear]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Taren Duskwalker\|Taren Duskwalker]]                       |
+| [[Campaigns/WestMarchesStyle/Public/People/Tavric Hallowthorn\|Tavric Hallowthorn]]                   |
+| [[Campaigns/WestMarchesStyle/Public/People/Thalindra Greenbough\|Thalindra Greenbough]]               |
+| [[Campaigns/WestMarchesStyle/Public/People/Thalric Emberfall\|Thalric Emberfall]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Tharic Nightbriar\|Tharic Nightbriar]]                     |
+| [[Campaigns/WestMarchesStyle/Public/People/Tharion Vexalis\|Tharion Vexalis]]                         |
+| [[Campaigns/WestMarchesStyle/Public/People/Theren Oakshadow\|Theren Oakshadow]]                       |
+
+{ .block-language-dataview}
