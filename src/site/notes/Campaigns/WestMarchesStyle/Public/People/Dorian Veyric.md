@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"People/Dorian Veyric.md","permalink":"/people/dorian-veyric/","tags":["NPC","LordsAlliance"],"dgShowFileTree":true}
 ---
 
-# **Dorian Veyric**
+# **Lord Dorian Veyric**
 
 ![Dorian_Veyric.jpg](/img/user/_assets/WestMarchesStyle/NPC%20Portraits/Dorian_Veyric.jpg)
 

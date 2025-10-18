@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/Faerun.md","permalink":"/locations/faerun/","tags":["location"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Locations/Faerun.md","permalink":"/locations/faerun/","tags":["location","continent"],"dgShowFileTree":true}
 ---
 
 # **Faerûn**
 
 _“A land of endless wonder and peril.”_
 
-Faerûn is the central continent of the Forgotten Realms, stretching from icy northern tundras to sun-drenched deserts and tropical jungles. It is home to countless kingdoms, city-states, wild frontiers, and magical sites, inhabited by a myriad of peoples, races, and creatures.
+Faerûn is the central continent of Toril, stretching from icy northern tundras to sun-drenched deserts and tropical jungles. It is home to countless kingdoms, city-states, wild frontiers, and magical sites, inhabited by a myriad of peoples, races, and creatures.
 
 ---
 
@@ -30,7 +30,7 @@ Faerûn is the central continent of the Forgotten Realms, stretching from icy no
 | Region                      | Description                                                                            |
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | **[[Campaigns/WestMarchesStyle/Public/Locations/Sword Coast\|Sword Coast]]**         | Coastal trade hubs, pirate coves, and scholarly cities like [[Campaigns/WestMarchesStyle/Public/Locations/Candlekeep\|Candlekeep]] and [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]. |
-| **Amn & Tethyr**            | Wealthy mercantile nations with bustling cities and noble intrigues.                   |
+| **[[Campaigns/WestMarchesStyle/Public/Locations/Amn\|Amn]] & Tethyr**            | Wealthy mercantile nations with bustling cities and noble intrigues.                   |
 | **Thay & Rashemen**         | Lands of magic, liches, and mystical warrior clans.                                    |
 | **Chult**                   | Dense jungles filled with dinosaurs, ancient ruins, and hidden treasures.              |
 | **[[Campaigns/WestMarchesStyle/Public/Locations/Waterdeep\|Waterdeep]] & [[Campaigns/WestMarchesStyle/Public/Locations/Neverwinter\|Neverwinter]]** | Major urban centers known for politics, commerce, and adventuring opportunities.       |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/Sword Coast.md","permalink":"/locations/sword-coast/","tags":["sword-coast","location"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Locations/Sword Coast.md","permalink":"/locations/sword-coast/","tags":["sword-coast","location","region"],"dgShowFileTree":true}
 ---
 
 # **Sword Coast**

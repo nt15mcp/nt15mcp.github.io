@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Locations/Iron Bastion.md","permalink":"/locations/iron-bastion/","tags":["location"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Locations/Iron Bastion.md","permalink":"/locations/iron-bastion/","tags":["location","fort"],"dgShowFileTree":true}
 ---
 
 # **Iron Bastion**
