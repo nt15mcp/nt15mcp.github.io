@@ -18,7 +18,8 @@ An explorer, inventor, and archivist without equal, Serenya Moonscribe is credit
 
 ### **[[Campaigns/WestMarchesStyle/Public/People/Thalric Emberhand\|Thalric Emberhand]]**
 
-When the dragon descended upon Ashvale, it was Thalric Emberhand who stood between flame and the helpless. His heroics saved both the town and several crucial fragments of lost lore. Known for his steadfastness and quiet faith, Thalric transformed his battle scars into lessons — teaching containment and stability magic to generations of field operatives. His rune-etched gauntlets remain on display in the Hall of Witness, eternally warm to the touch.
+When the dragon descended upon Ashvale, it was Thalric Emberhand who stood between flame and the helpless. His heroics saved both the to
+wn and several crucial fragments of lost lore. Known for his steadfastness and quiet faith, Thalric transformed his battle scars into lessons — teaching containment and stability magic to generations of field operatives. His rune-etched gauntlets remain on display in the Hall of Witness, eternally warm to the touch.
 
 ---
 
