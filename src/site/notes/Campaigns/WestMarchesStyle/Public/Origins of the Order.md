@@ -58,8 +58,6 @@ This origin emphasizes secrecy and caution, perhaps more than the others. Even n
 
 ### **Further Reading**
 
-- [[Codex Fragment Collection\|Codex Fragment Collection]] — Surviving pages from the earliest records
+- [[Campaigns/WestMarchesStyle/Public/Codex-Entries/Codex Fragment Collection/_Index\|Codex Fragment Collection]] — Surviving pages from the earliest records
     
-- [[Founders & Legendary Figures\|Founders & Legendary Figures]] — Biographical sketches and anecdotes
-    
-- [[Regional Legends\|Regional Legends]] — How various cultures recount the Order’s founding
+- [[Campaigns/WestMarchesStyle/Public/Notable Members\|Legendary Figures]] — Biographical sketches and anecdotes
