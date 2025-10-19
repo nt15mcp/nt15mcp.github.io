@@ -28,22 +28,31 @@ The Order acts not for glory, judgment, or dominion — but for vigilance, under
 
 ---
 
-### 📖 **The [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Chapter**
+### 📖 **The Grayharbor Chapter**
 
-> _“Where the seas meet the shelves of knowledge.”_
+Headquartered in **[[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]**, south of **[[Campaigns/WestMarchesStyle/Public/Locations/Candlekeep\|Candlekeep]]**, this chapter serves as the central hub of the **Order of the Seventh Codex** along the western coast.
 
-Headquartered in **[[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]]**, south of [[Campaigns/WestMarchesStyle/Public/Locations/Candlekeep\|Candlekeep]], this chapter serves as the **central hub** of Order operations along the western coast.
+From this hall, members of the Order work tirelessly to trace the threads of the strange and the extraordinary — charting phenomena that others might dismiss as myth, misfortune, or madness.
 
-From this hall, members of the Order:
+---
 
-- Review **[[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]]** drawn from travelers, scholars, and dreamers alike.
+### **Order Operations**
+
+Within the vaulted chambers of [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]], daily life revolves around three core duties:
+
+- **Reviewing [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]]**  
+    Whispers from sailors, travelers, dreamers, and distant scholars filter constantly into the Hall. These accounts — _Rumors_ — are fragments of potential anomalies or supernatural disturbances.  
+    Field parties are occasionally dispatched to _investigate_ these tales and determine whether they represent genuine threats, benign curiosities, or mere coincidence.  
+    A Rumor may prove nothing at all… or be the first tremor of something catastrophic.
     
-- Form temporary **Field Parties** to investigate pressing anomalies.
+- **Undertaking [[Campaigns/WestMarchesStyle/Public/Active Missions\|Jobs & Missions]]**  
+    When a situation has already been verified as dangerous, unstable, or clearly anomalous, it becomes a _Mission_.  
+    These operations focus on **containment, resolution, or prevention** — acting before an incident escalates beyond control.  
+    Some Missions are simple: close a tear, calm a restless haunt, retrieve a lost relic. Others unravel into sprawling calamities that alter the course of entire regions.
     
-- Submit reports to be recorded as **[[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]]** for future generations.
-    
-
-The [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|Grayharbor]] Hall hums with quiet purpose — scholars, veterans, and explorers alike trading rumor, ink, and ale.
+- **Recording Codex Entries**  
+    Findings from both Rumors and Missions are submitted as **Codex Entries** — written accounts, maps, and arcane annotations preserved for future generations of the Order.  
+    Each entry ensures that knowledge, once won, will not be lost again.
 
 ---
 
@@ -70,7 +79,7 @@ See:
 
 - [[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]] — completed records
     
-- [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]] — ongoing investigations
+- [[Campaigns/WestMarchesStyle/Public/Rumors & Leads\|Rumors & Leads]] — reports to investigate
 	
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Active Missions]] — jobs available
     
@@ -125,13 +134,13 @@ Ranks serve as **honorary titles**, reflecting dedication to the mission — not
 
 The true origin of the Order is disputed. Among the most discussed theories:
 
-- **The Cataclysm That Wasn’t**
+- **[[Campaigns/WestMarchesStyle/Public/Origins of the Order#**1. The Cataclysm That Wasn’t**\|The Cataclysm That Wasn't]]**
     
-- **The Scholars’ Pact**
+- **[[Campaigns/WestMarchesStyle/Public/Origins of the Order#**2. The Scholars’ Pact**\|The Scholars’ Pact]]**
     
-- **The Mercenary Turned Mentor**
+- **[[Campaigns/WestMarchesStyle/Public/Origins of the Order#**3. The Mercenary Turned Mentor**\|The Mercenary Turned Mentor]]**
     
-- **The Forgotten Threat**
+- **[[Campaigns/WestMarchesStyle/Public/Origins of the Order#**4. The Forgotten Threat**\|The Forgotten Threat]]**
     
 
 Read more: [[Campaigns/WestMarchesStyle/Public/Origins of the Order\|Origins of the Order]]
