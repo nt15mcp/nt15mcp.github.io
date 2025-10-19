@@ -3,14 +3,14 @@
     <title>Order of the Seventh Codex</title>
     <link href="https://nt15mcp.github.io/nt15mcp.github.io/feed.xml" rel="self" />
     <link href="https://nt15mcp.github.io/nt15mcp.github.io" />
-    <updated>2025-10-19T19:36:42Z</updated>
+    <updated>2025-10-19T19:50:10Z</updated>
     <id>https://nt15mcp.github.io/nt15mcp.github.io</id>
         <entry>
             <title>
                 _CodexEntry
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/templates/codex-entry/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entry-template&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entry Template&lt;/h1&gt;
@@ -101,7 +101,7 @@
                 Rumors &amp; Leads
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/rumors-and-leads/</id>
             <content type="html">
                 &lt;h1 id=&quot;rumors-and-amp-leads&quot; tabindex=&quot;-1&quot;&gt;🌿 Rumors &amp;amp; Leads&lt;/h1&gt;
@@ -109,42 +109,30 @@
 &lt;p&gt;&lt;em&gt;“Every whisper holds a seed of truth.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;These are unverified reports, anomalies, or curiosities awaiting investigation.&lt;br /&gt;
-Members of the Order may &lt;strong&gt;sign their characters up&lt;/strong&gt; to pursue any available lead.&lt;br /&gt;
-Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/active-missions/&quot;&gt;Active Missions&lt;/a&gt;.&lt;/p&gt;
+Members of the Order may &lt;strong&gt;sign up&lt;/strong&gt; to pursue any available lead in the Discord Lodge.&lt;br /&gt;
+When an investigation concludes, its report is filed as a new &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entry&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;active-rumors&quot; tabindex=&quot;-1&quot;&gt;Active Rumors&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Rumor Title&lt;/th&gt;
-&lt;th&gt;Origin / Source&lt;/th&gt;
+&lt;th&gt;Rumor&lt;/th&gt;
+&lt;th&gt;Region&lt;/th&gt;
+&lt;th&gt;Field Party&lt;/th&gt;
 &lt;th&gt;Status&lt;/th&gt;
-&lt;th&gt;Notes&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;R001 - The Singing Barrow&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Shepherds near &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;🕵️ Unconfirmed&lt;/td&gt;
-&lt;td&gt;Strange harmonics from beneath old tomb.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;R002 - The Shattered Sky&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Sailors’ logbook, &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/sword-coast/&quot;&gt;Sword Coast&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;🕵️ Unconfirmed&lt;/td&gt;
-&lt;td&gt;Reports of lights and rifts above the sea at dusk.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;R003 - The Crimson Orchard&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Merchant caravan survivor&lt;/td&gt;
-&lt;td&gt;🕵️ Unconfirmed&lt;/td&gt;
-&lt;td&gt;Trees bearing blood-red fruit overnight.&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr /&gt;
-&lt;h3 id=&quot;completed-leads&quot; tabindex=&quot;-1&quot;&gt;Completed Leads&lt;/h3&gt;
+&lt;h3 id=&quot;completed-investigations&quot; tabindex=&quot;-1&quot;&gt;Completed Investigations&lt;/h3&gt;
 &lt;p&gt;(See: &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;Codex Entries (Index)&lt;/a&gt;)&lt;/p&gt;
 
             </content>
@@ -155,7 +143,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;people&quot; tabindex=&quot;-1&quot;&gt;People&lt;/h1&gt;
@@ -231,7 +219,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Zyphira Nareth
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/zyphira-nareth/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-zyphira-nareth-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Zyphira Nareth&lt;/strong&gt;&lt;/h1&gt;
@@ -275,7 +263,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Veyra Halcorne
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/veyra-halcorne/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-veyra-halcorne-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Veyra Halcorne&lt;/strong&gt;&lt;/h1&gt;
@@ -319,7 +307,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Veylindar Shadewell
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/veylindar-shadewell/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-veylindar-shadewell-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Veylindar Shadewell&lt;/strong&gt;&lt;/h1&gt;
@@ -363,7 +351,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Veylan Korrath
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/veylan-korrath/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-veylan-korrath-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Veylan Korrath&lt;/strong&gt;&lt;/h1&gt;
@@ -407,7 +395,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Vashara Teldryn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/vashara-teldryn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-vashara-teldryn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Vashara Teldryn&lt;/strong&gt;&lt;/h1&gt;
@@ -451,7 +439,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Varis Greyveil
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/varis-greyveil/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-varis-greyveil-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Varis Greyveil&lt;/strong&gt;&lt;/h2&gt;
@@ -472,7 +460,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Vareth Malcor
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/vareth-malcor/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-vareth-the-crimson-broker-malcor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Vareth “The Crimson Broker” Malcor&lt;/strong&gt;&lt;/h1&gt;
@@ -519,7 +507,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Torric Veynhall
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/torric-veynhall/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-captain-torric-veynhall-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Captain Torric Veynhall&lt;/strong&gt;&lt;/h1&gt;
@@ -563,7 +551,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Thessa Willowbark
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/thessa-willowbark/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-thessa-willowbark-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Thessa Willowbark&lt;/strong&gt;&lt;/h1&gt;
@@ -607,7 +595,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Theren Oakshadow
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/theren-oakshadow/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-theren-oakshadow-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Theren Oakshadow&lt;/strong&gt;&lt;/h1&gt;
@@ -651,7 +639,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Tharion Vexalis
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/tharion-vexalis/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-tharion-vexalis-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Tharion Vexalis&lt;/strong&gt;&lt;/h1&gt;
@@ -695,7 +683,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Tharic Nightbriar
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/tharic-nightbriar/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-tharic-nightbriar-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Tharic Nightbriar&lt;/strong&gt;&lt;/h1&gt;
@@ -739,7 +727,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Thalric Emberhand
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/thalric-emberhand/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-thalric-emberhand-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Thalric Emberhand&lt;/strong&gt;&lt;/h2&gt;
@@ -761,7 +749,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Thalric Emberfall
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/thalric-emberfall/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sir-thalric-emberfall-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sir Thalric Emberfall&lt;/strong&gt;&lt;/h1&gt;
@@ -805,7 +793,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Thalindra Greenbough
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/thalindra-greenbough/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-thalindra-greenbough-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Thalindra Greenbough&lt;/strong&gt;&lt;/h1&gt;
@@ -849,7 +837,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Tavric Hallowthorn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/tavric-hallowthorn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-tavric-hallowthorn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Tavric Hallowthorn&lt;/strong&gt;&lt;/h1&gt;
@@ -893,7 +881,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Taren Duskwalker
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/taren-duskwalker/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-taren-duskwalker-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Taren Duskwalker&lt;/strong&gt;&lt;/h1&gt;
@@ -937,7 +925,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Sylvara Moonshear
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/sylvara-moonshear/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sylvara-moonshear-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sylvara Moonshear&lt;/strong&gt;&lt;/h1&gt;
@@ -981,7 +969,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Sylvara Brightbough
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/sylvara-brightbough/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sylvara-brightbough-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sylvara Brightbough&lt;/strong&gt;&lt;/h1&gt;
@@ -1025,7 +1013,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Sylthara Veynn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/sylthara-veynn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sylthara-veynn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sylthara Veynn&lt;/strong&gt;&lt;/h1&gt;
@@ -1069,7 +1057,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Sister Lyrielle Dawnmantle
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/sister-lyrielle-dawnmantle/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sister-lyrielle-dawnmantle-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sister Lyrielle Dawnmantle&lt;/strong&gt;&lt;/h1&gt;
@@ -1113,7 +1101,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Serina Vaelor
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/serina-vaelor/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-serina-vaelor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Serina Vaelor&lt;/strong&gt;&lt;/h1&gt;
@@ -1160,7 +1148,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Serenya Moonscribe
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/serenya-moonscribe/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-serenya-moonscribe-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Serenya Moonscribe&lt;/strong&gt;&lt;/h2&gt;
@@ -1182,7 +1170,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Serath Durnhald
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/serath-durnhald/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lord-serath-durnhald-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord Serath Durnhald&lt;/strong&gt;&lt;/h1&gt;
@@ -1229,7 +1217,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Seraphine Vael
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/seraphine-vael/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-high-prelate-seraphine-vael-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;High Prelate Seraphine Vael&lt;/strong&gt;&lt;/h1&gt;
@@ -1276,7 +1264,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Selwyn Farrowind
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/selwyn-farrowind/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-selwyn-farrowind-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Selwyn Farrowind&lt;/strong&gt;&lt;/h1&gt;
@@ -1320,7 +1308,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Selric Dornwell
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/selric-dornwell/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-selric-dornwell-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Selric Dornwell&lt;/strong&gt;&lt;/h1&gt;
@@ -1367,7 +1355,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Selindria Nightbloom
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/selindria-nightbloom/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-selindria-nightbloom-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Selindria Nightbloom&lt;/strong&gt;&lt;/h1&gt;
@@ -1411,7 +1399,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Selene Windwhisper
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/selene-windwhisper/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-selene-windwhisper-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Selene Windwhisper&lt;/strong&gt;&lt;/h1&gt;
@@ -1455,7 +1443,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Selara Tyndall
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/selara-tyndall/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-selara-tyndall-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Selara Tyndall&lt;/strong&gt;&lt;/h1&gt;
@@ -1499,7 +1487,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Rhea Vorn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/rhea-vorn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-rhea-and-quot-brightlance-and-quot-vorn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Rhea &amp;quot;Brightlance&amp;quot; Vorn&lt;/strong&gt;&lt;/h1&gt;
@@ -1546,7 +1534,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Ravik Dreshan
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/ravik-dreshan/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-ravik-dreshan-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Ravik Dreshan&lt;/strong&gt;&lt;/h1&gt;
@@ -1590,7 +1578,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Orren Vale
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/orren-vale/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-orren-vale-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Orren Vale&lt;/strong&gt;&lt;/h1&gt;
@@ -1645,7 +1633,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Mirra Kestrel
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/mirra-kestrel/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-mirra-kestrel-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Mirra Kestrel&lt;/strong&gt;&lt;/h1&gt;
@@ -1689,7 +1677,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Maeron Vale
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/maeron-vale/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-maeron-vale-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Maeron Vale&lt;/strong&gt;&lt;/h1&gt;
@@ -1733,7 +1721,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Lysara Nymell
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/lysara-nymell/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lysara-nymell-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lysara Nymell&lt;/strong&gt;&lt;/h1&gt;
@@ -1777,7 +1765,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Loryn Veynar
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/loryn-veynar/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-loryn-veynar-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Loryn Veynar&lt;/strong&gt;&lt;/h1&gt;
@@ -1821,7 +1809,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Liora Kethryn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/liora-kethryn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-liora-kethryn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Liora Kethryn&lt;/strong&gt;&lt;/h1&gt;
@@ -1865,7 +1853,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Lareth Dunsvale
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/lareth-dunsvale/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-lareth-dunsvale-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lareth Dunsvale&lt;/strong&gt;&lt;/h2&gt;
@@ -1887,7 +1875,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Lady Arannis Valewyn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/lady-arannis-valewyn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lady-arannis-valewyn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lady Arannis Valewyn&lt;/strong&gt;&lt;/h1&gt;
@@ -1931,7 +1919,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Korrim Blackthorn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/korrim-blackthorn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-korrim-blackthorn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Korrim Blackthorn&lt;/strong&gt;&lt;/h1&gt;
@@ -1975,7 +1963,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Korrath Zeyl
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/korrath-zeyl/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-korrath-zeyl-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Korrath Zeyl&lt;/strong&gt;&lt;/h1&gt;
@@ -2019,7 +2007,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Kaenrik Dravoss
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/kaenrik-dravoss/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-kaenrik-dravoss-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Kaenrik Dravoss&lt;/strong&gt;&lt;/h1&gt;
@@ -2063,7 +2051,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Kaelric Dravemont
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/kaelric-dravemont/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lord-kaelric-dravemont-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord Kaelric Dravemont&lt;/strong&gt;&lt;/h1&gt;
@@ -2107,7 +2095,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Jorvik Drelan
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/jorvik-drelan/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-jorvik-drelan-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Jorvik Drelan&lt;/strong&gt;&lt;/h1&gt;
@@ -2151,7 +2139,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Jorvan Thalrik
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/jorvan-thalrik/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-jorvan-thalrik-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Jorvan Thalrik&lt;/strong&gt;&lt;/h1&gt;
@@ -2195,7 +2183,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Gorath Stonebark
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/gorath-stonebark/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-gorath-stonebark-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Gorath Stonebark&lt;/strong&gt;&lt;/h1&gt;
@@ -2239,7 +2227,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Garron Ashvale
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/garron-ashvale/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lord-garron-ashvale-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord Garron Ashvale&lt;/strong&gt;&lt;/h1&gt;
@@ -2283,7 +2271,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Elsera Myrren
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/elsera-myrren/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-elsera-myrren-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Elsera Myrren&lt;/strong&gt;&lt;/h1&gt;
@@ -2327,7 +2315,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Elowen Starshield
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/elowen-starshield/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-elowen-starshield-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Elowen Starshield&lt;/strong&gt;&lt;/h1&gt;
@@ -2371,7 +2359,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Elenya Veyrin
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/elenya-veyrin/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-elenya-veyrin-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Elenya Veyrin&lt;/strong&gt;&lt;/h1&gt;
@@ -2415,7 +2403,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Durn Mavrek
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/durn-mavrek/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-durn-mavrek-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Durn Mavrek&lt;/strong&gt;&lt;/h1&gt;
@@ -2459,7 +2447,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Dorian Veyric
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/dorian-veyric/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lord-dorian-veyric-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord Dorian Veyric&lt;/strong&gt;&lt;/h1&gt;
@@ -2503,7 +2491,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Doranis Krynn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/doranis-krynn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-doranis-krynn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Doranis Krynn&lt;/strong&gt;&lt;/h1&gt;
@@ -2547,7 +2535,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Caelith Veyran
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/caelith-veyran/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-caelith-veyran-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Caelith Veyran&lt;/strong&gt;&lt;/h1&gt;
@@ -2594,7 +2582,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Brother Kaelen Ironstride
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/brother-kaelen-ironstride/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-brother-kaelen-ironstride-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Brother Kaelen Ironstride&lt;/strong&gt;&lt;/h1&gt;
@@ -2638,7 +2626,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Brother Halric Durn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/brother-halric-durn/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-brother-halric-durn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Brother Halric Durn&lt;/strong&gt;&lt;/h1&gt;
@@ -2682,7 +2670,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Bromir Stoneleaf
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/bromir-stoneleaf/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-bromir-stoneleaf-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Bromir Stoneleaf&lt;/strong&gt;&lt;/h1&gt;
@@ -2728,7 +2716,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Branthor Kilnforge
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/branthor-kilnforge/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-branthor-kilnforge-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Branthor Kilnforge&lt;/strong&gt;&lt;/h1&gt;
@@ -2775,7 +2763,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Archmage Pelanor Brightstar
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/archmage-pelanor-brightstar/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-archmage-pelanor-brightstar-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Archmage Pelanor Brightstar&lt;/strong&gt;&lt;/h1&gt;
@@ -2830,7 +2818,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Althea Carrick
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/people/althea-carrick/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-althea-carrick-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Althea Carrick&lt;/strong&gt;&lt;/h1&gt;
@@ -2874,7 +2862,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Origins of the Order
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/origins-of-the-order/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-origins-of-the-order-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Origins of the Order&lt;/strong&gt;&lt;/h2&gt;
@@ -2940,7 +2928,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;organizations&quot; tabindex=&quot;-1&quot;&gt;Organizations&lt;/h1&gt;
@@ -2971,7 +2959,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Zhentarim
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/zhentarim/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-zhentarim-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Zhentarim&lt;/strong&gt;&lt;/h1&gt;
@@ -2996,7 +2984,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Whispering Veil
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/whispering-veil/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-whispering-veil-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Whispering Veil&lt;/strong&gt;&lt;/h1&gt;
@@ -3021,7 +3009,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Verdant Enclave
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/verdant-enclave/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-verdant-enclave-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Verdant Enclave&lt;/strong&gt;&lt;/h1&gt;
@@ -3044,7 +3032,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Red Wizards of Thay
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/red-wizards-of-thay/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-red-wizards-of-thay-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Red Wizards of Thay&lt;/strong&gt;&lt;/h1&gt;
@@ -3069,7 +3057,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Order of the Gauntlet
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/order-of-the-gauntlet/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-order-of-the-gauntlet-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Order of the Gauntlet&lt;/strong&gt;&lt;/h1&gt;
@@ -3094,7 +3082,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Obsidian Choir
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/obsidian-choir/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-obsidian-choir-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Obsidian Choir&lt;/strong&gt;&lt;/h3&gt;
@@ -3110,7 +3098,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Lord’s Alliance
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/lord-s-alliance/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-lord-s-alliance-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lord’s Alliance&lt;/strong&gt;&lt;/h1&gt;
@@ -3135,7 +3123,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Iron Sigil
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/iron-sigil/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-iron-sigil-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Iron Sigil&lt;/strong&gt;&lt;/h1&gt;
@@ -3160,7 +3148,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Harpers
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/harpers/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-harpers-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Harpers&lt;/strong&gt;&lt;/h1&gt;
@@ -3184,7 +3172,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Emerald Enclave
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/emerald-enclave/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-emerald-enclave-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Emerald Enclave&lt;/strong&gt;&lt;/h1&gt;
@@ -3208,7 +3196,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Dawnforged Circle
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/dawnforged-circle/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-dawnforged-circle-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Dawnforged Circle&lt;/strong&gt;&lt;/h1&gt;
@@ -3233,7 +3221,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Crimson Hand Consortium
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-hand-consortium/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-crimson-hand-consortium-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crimson Hand Consortium&lt;/strong&gt;&lt;/h1&gt;
@@ -3258,7 +3246,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Crimson Conclave
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-conclave/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-crimson-conclave-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crimson Conclave&lt;/strong&gt;&lt;/h3&gt;
@@ -3273,7 +3261,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Crimson Banner
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/crimson-banner/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-crimson-banner-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crimson Banner&lt;/strong&gt;&lt;/h1&gt;
@@ -3299,7 +3287,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Council of Harborwardens
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/council-of-harborwardens/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-council-of-harborwardens-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Council of Harborwardens&lt;/strong&gt;&lt;/h1&gt;
@@ -3344,7 +3332,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Ashen Blades
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/organizations/ashen-blades/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-ashen-blades-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Ashen Blades&lt;/strong&gt;&lt;/h3&gt;
@@ -3359,7 +3347,7 @@ Once an expedition is formed, the rumor is moved to &lt;a class=&quot;internal-l
                 Order of the Seventh Codex Home
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/</id>
             <content type="html">
                 &lt;hr /&gt;
@@ -3558,7 +3546,7 @@ the archivists of &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data
                 Notable Members
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/notable-members/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-notable-members-of-the-order-of-the-seventh-codex-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Notable Members of the Order of the Seventh Codex&lt;/strong&gt;&lt;/h2&gt;
@@ -3583,7 +3571,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;locations&quot; tabindex=&quot;-1&quot;&gt;Locations&lt;/h1&gt;
@@ -3631,7 +3619,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Waterdeep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/waterdeep/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-waterdeep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Waterdeep&lt;/strong&gt;&lt;/h1&gt;
@@ -3709,7 +3697,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Veyric Keep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/veyric-keep/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-veyric-keep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Veyric Keep&lt;/strong&gt;&lt;/h1&gt;
@@ -3747,7 +3735,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Verdant Hills
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/verdant-hills/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-verdant-hills-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Verdant Hills&lt;/strong&gt;&lt;/h2&gt;
@@ -3761,7 +3749,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 The Hammerlight Cloister
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/the-hammerlight-cloister/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-the-hammerlight-cloister-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;The Hammerlight Cloister&lt;/strong&gt;&lt;/h1&gt;
@@ -3786,7 +3774,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 The Flameward Bastion
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/the-flameward-bastion/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-the-flameward-bastion-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;The Flameward Bastion&lt;/strong&gt;&lt;/h2&gt;
@@ -3800,7 +3788,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Sword Coast
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/sword-coast/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sword-coast-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sword Coast&lt;/strong&gt;&lt;/h1&gt;
@@ -3915,7 +3903,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Stoneleaf Grove
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/stoneleaf-grove/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-stoneleaf-grove-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Stoneleaf Grove&lt;/strong&gt;&lt;/h2&gt;
@@ -3953,7 +3941,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Stonebark Keep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/stonebark-keep/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-stonebark-keep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Stonebark Keep&lt;/strong&gt;&lt;/h1&gt;
@@ -3967,7 +3955,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Scarlet Depot
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/scarlet-depot/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-scarlet-depot-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Scarlet Depot&lt;/strong&gt;&lt;/h1&gt;
@@ -4006,7 +3994,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Sanctuary of the Celestial Hand
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/sanctuary-of-the-celestial-hand/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-sanctuary-of-the-celestial-hand-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Sanctuary of the Celestial Hand&lt;/strong&gt;&lt;/h1&gt;
@@ -4040,7 +4028,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 River Vey
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/river-vey/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-river-vey-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;River Vey&lt;/strong&gt;&lt;/h2&gt;
@@ -4076,7 +4064,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Rivensport
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/rivensport/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-rivensport-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Rivensport&lt;/strong&gt;&lt;/h1&gt;
@@ -4202,7 +4190,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Neverwinter
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/neverwinter/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-neverwinter-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Neverwinter&lt;/strong&gt;&lt;/h1&gt;
@@ -4280,7 +4268,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Misty Forest
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/misty-forest/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-misty-forest-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Misty Forest&lt;/strong&gt;&lt;/h1&gt;
@@ -4294,7 +4282,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Mere of Dead Men
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/mere-of-dead-men/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-mere-of-dead-men-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Mere of Dead Men&lt;/strong&gt;&lt;/h1&gt;
@@ -4308,7 +4296,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Luskan
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/luskan/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-luskan-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Luskan&lt;/strong&gt;&lt;/h1&gt;
@@ -4386,7 +4374,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Luminous Athenaeum
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/luminous-athenaeum/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-luminous-athenaeum-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Luminous Athenaeum&lt;/strong&gt;&lt;/h2&gt;
@@ -4400,7 +4388,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Krynn Spire
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/krynn-spire/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-krynn-spire-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Krynn Spire&lt;/strong&gt;&lt;/h1&gt;
@@ -4436,7 +4424,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Iron Bastion
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/iron-bastion/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-iron-bastion-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Iron Bastion&lt;/strong&gt;&lt;/h1&gt;
@@ -4475,7 +4463,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Iriaebor
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/iriaebor/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-iriaebor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Iriaebor&lt;/strong&gt;&lt;/h1&gt;
@@ -4508,7 +4496,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 High Moor
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/high-moor/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-high-moor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;High Moor&lt;/strong&gt;&lt;/h1&gt;
@@ -4523,7 +4511,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 High Forest
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/high-forest/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-high-forest-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;High Forest&lt;/strong&gt;&lt;/h2&gt;
@@ -4539,7 +4527,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Grayharbor
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/grayharbor/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-grayharbor-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Grayharbor&lt;/strong&gt;&lt;/h1&gt;
@@ -4642,7 +4630,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fort Ironkeep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/fort-ironkeep/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-fort-ironkeep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fort Ironkeep&lt;/strong&gt;&lt;/h1&gt;
@@ -4675,7 +4663,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fort Emberhold
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/fort-emberhold/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-fort-emberhold-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fort Emberhold&lt;/strong&gt;&lt;/h1&gt;
@@ -4708,7 +4696,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Farrowind Homestead
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/farrowind-homestead/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-farrowind-homestead-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Farrowind Homestead&lt;/strong&gt;&lt;/h2&gt;
@@ -4722,7 +4710,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Faerun
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/faerun/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-faerun-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Faerûn&lt;/strong&gt;&lt;/h1&gt;
@@ -4855,7 +4843,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Chionthar River
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/chionthar-river/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-chionthar-river-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Chionthar River&lt;/strong&gt;&lt;/h2&gt;
@@ -4869,7 +4857,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Candlekeep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/candlekeep/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-candlekeep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Candlekeep&lt;/strong&gt;&lt;/h1&gt;
@@ -4999,7 +4987,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Berdusk
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/berdusk/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-berdusk-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Berdusk&lt;/strong&gt;&lt;/h1&gt;
@@ -5027,7 +5015,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Baldur&#39;s Gate
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/baldur-s-gate/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-baldur-s-gate-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Baldur’s Gate&lt;/strong&gt;&lt;/h1&gt;
@@ -5105,7 +5093,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Athkatla
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/athkatla/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-athkatla-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Athkatla&lt;/strong&gt;&lt;/h2&gt;
@@ -5119,7 +5107,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Amn
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/locations/amn/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-amn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Amn&lt;/strong&gt;&lt;/h2&gt;
@@ -5133,7 +5121,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;cultures&quot; tabindex=&quot;-1&quot;&gt;Cultures&lt;/h1&gt;
@@ -5151,7 +5139,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Silver Circle of Scholars
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/silver-circle-of-scholars/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-silver-circle-of-scholars-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Silver Circle of Scholars&lt;/strong&gt;&lt;/h2&gt;
@@ -5165,7 +5153,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Order of Provident Aid
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/order-of-provident-aid/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-order-of-provident-aid-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Order of Provident Aid&lt;/strong&gt;&lt;/h2&gt;
@@ -5193,7 +5181,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Merchant Lords
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/cultures/merchant-lords/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-merchant-lords-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Merchant Lords&lt;/strong&gt;&lt;/h1&gt;
@@ -5210,7 +5198,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entries&quot; tabindex=&quot;-1&quot;&gt;Codex Entries&lt;/h1&gt;
@@ -5227,7 +5215,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-fragments&quot; tabindex=&quot;-1&quot;&gt;Codex Fragments&lt;/h1&gt;
@@ -5254,7 +5242,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 9
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-9/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-9-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#9&quot;&gt;#9&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5278,7 +5266,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 8
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-8/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-8-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#8&quot;&gt;#8&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5297,7 +5285,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 7
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-7/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-7-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#7&quot;&gt;#7&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5324,7 +5312,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 6
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-6/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-6-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#6&quot;&gt;#6&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5343,7 +5331,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 5
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-5/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-5-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#5&quot;&gt;#5&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5367,7 +5355,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 4
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-4/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-4-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#4&quot;&gt;#4&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5386,7 +5374,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 3
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-3/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-3-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#3&quot;&gt;#3&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5413,7 +5401,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 2
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-2/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-2-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#2&quot;&gt;#2&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5437,7 +5425,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 12
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-12/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-12-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#12&quot;&gt;#12&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5461,7 +5449,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 11
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-11/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-11-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#11&quot;&gt;#11&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5480,7 +5468,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 10
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-10/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-10-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#10&quot;&gt;#10&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5499,7 +5487,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Fragment 1
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-fragment-collection/fragment-1/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-fragment-1-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Fragment &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#1&quot;&gt;#1&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
@@ -5526,7 +5514,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Codex Entry Template
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/codex-entries/codex-entry-template/</id>
             <content type="html">
                 &lt;h1 id=&quot;codex-entry-template&quot; tabindex=&quot;-1&quot;&gt;🕮 Codex Entry Template&lt;/h1&gt;
@@ -5617,7 +5605,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 _Index
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/index/</id>
             <content type="html">
                 &lt;h1 id=&quot;artifacts&quot; tabindex=&quot;-1&quot;&gt;Artifacts&lt;/h1&gt;
@@ -5647,7 +5635,7 @@ wn and several crucial fragments of lost lore. Known for his steadfastness and q
                 Wyrd Compass
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/wyrd-compass/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-wyrd-compass-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Wyrd Compass&lt;/strong&gt;&lt;/h3&gt;
@@ -5665,7 +5653,7 @@ Rather than point north, the needle aligns toward “convergence points” — p
                 Veil of moondust
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/veil-of-moondust/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-veil-of-moondust-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Veil of Moondust&lt;/strong&gt;&lt;/h3&gt;
@@ -5683,7 +5671,7 @@ When cast over an area or individual, all sound within becomes distorted, as if 
                 Thorns of Auralis
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/thorns-of-auralis/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-thorns-of-auralis-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Thorns of Auralis&lt;/strong&gt;&lt;/h3&gt;
@@ -5701,7 +5689,7 @@ When buried, the thorns cause rapid overgrowth — an explosion of flora consumi
                 Silent Loom
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/silent-loom/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-silent-loom-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Silent Loom&lt;/strong&gt;&lt;/h3&gt;
@@ -5719,7 +5707,7 @@ The loom weaves threads of reflected starlight into physical patterns that alter
                 Shard of Lament
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/shard-of-lament/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-shard-of-lament-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Shard of Lament&lt;/strong&gt;&lt;/h3&gt;
@@ -5737,7 +5725,7 @@ The shard amplifies emotion into resonance. Despair becomes audible, anger manif
                 Reliquary of Quiet Earth
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/reliquary-of-quiet-earth/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-reliquary-of-quiet-earth-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Reliquary of Quiet Earth&lt;/strong&gt;&lt;/h3&gt;
@@ -5754,7 +5742,7 @@ The reliquary exerts a pacifying field over necrotic energies. Within a radius o
                 Obsidian Chalice
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/obsidian-chalice/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-obsidian-chalice-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Obsidian Chalice&lt;/strong&gt;&lt;/h3&gt;
@@ -5772,7 +5760,7 @@ Liquids poured within the chalice gain properties of clarity and truth — poiso
                 Mirror of Still Currents
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/mirror-of-still-currents/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-mirror-of-still-currents-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Mirror of Still Currents&lt;/strong&gt;&lt;/h3&gt;
@@ -5790,7 +5778,7 @@ When placed within range of linked or communicating constructs, arcane relays, o
                 Lantern of the Deep
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/lantern-of-the-deep/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-lantern-of-the-deep-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Lantern of the Deep&lt;/strong&gt;&lt;/h3&gt;
@@ -5808,7 +5796,7 @@ When lit, the flame burns blue beneath the surface, revealing hidden currents, i
                 Glass Serpent
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/glass-serpent/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-glass-serpent-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Glass Serpent&lt;/strong&gt;&lt;/h3&gt;
@@ -5826,7 +5814,7 @@ The serpent absorbs ambient kinetic energy, stilling movement in its vicinity. O
                 Ember Crucible
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/ember-crucible/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-ember-crucible-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Ember Crucible&lt;/strong&gt;&lt;/h3&gt;
@@ -5844,7 +5832,7 @@ When filled with flame — mundane or magical — the Crucible draws it inward, 
                 Crown of Roots
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/crown-of-roots/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-crown-of-roots-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Crown of Roots&lt;/strong&gt;&lt;/h3&gt;
@@ -5861,7 +5849,7 @@ Grants communion with the soil’s memory — voices of buried civilizations whi
                 Clockwork Heart
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/clockwork-heart/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-clockwork-heart-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Clockwork Heart&lt;/strong&gt;&lt;/h3&gt;
@@ -5879,7 +5867,7 @@ When placed against an inert construct or lifeless body, it may animate the host
                 Bloom of Drowned Suns
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/bloom-of-drowned-suns/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-the-bloom-of-drowned-suns-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;The Bloom of Drowned Suns&lt;/strong&gt;&lt;/h3&gt;
@@ -5897,7 +5885,7 @@ When unsealed, the bloom unfolds and releases sunlight underwater or in total da
                 Ashen Diadem
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/artifacts/ashen-diadem/</id>
             <content type="html">
                 &lt;h3 id=&quot;strong-ashen-diadem-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Ashen Diadem&lt;/strong&gt;&lt;/h3&gt;
@@ -5915,7 +5903,7 @@ The wearer can command obedience from the recently deceased, compelling echoes o
                 Active Missions
                 
             </title>
-            <updated>2025-10-19T19:36:23Z</updated>
+            <updated>2025-10-19T19:49:51Z</updated>
             <id>https://nt15mcp.github.io/nt15mcp.github.io/active-missions/</id>
             <content type="html">
                 &lt;h1 id=&quot;active-missions&quot; tabindex=&quot;-1&quot;&gt;Active Missions&lt;/h1&gt;
@@ -5923,12 +5911,12 @@ The wearer can command obedience from the recently deceased, compelling echoes o
 &lt;p&gt;&lt;em&gt;“The field is the truest teacher.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here are ongoing investigations currently undertaken by members of the Order.&lt;br /&gt;
+Members of the Order may &lt;strong&gt;sign up&lt;/strong&gt; to complete any available mission in the Discord Lodge.&lt;br /&gt;
 When a mission concludes, its report is filed as a new &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/codex-entries/index/&quot;&gt;Codex Entry&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Ref #&lt;/th&gt;
 &lt;th&gt;Mission Title&lt;/th&gt;
 &lt;th&gt;Region&lt;/th&gt;
 &lt;th&gt;Field Party&lt;/th&gt;
@@ -5937,33 +5925,14 @@ When a mission concludes, its report is filed as a new &lt;a class=&quot;interna
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;M-001&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;M001 - The Singing Barrow Expedition&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://nt15mcp.github.io/locations/grayharbor/&quot;&gt;Grayharbor&lt;/a&gt; Foothills&lt;/td&gt;
-&lt;td&gt;Arlen, Vessa, Dorian&lt;/td&gt;
-&lt;td&gt;⏳ In Progress&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M-002&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;M002 - Lights Above the Sea&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Sword Coast&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
-&lt;td&gt;🧭 Gathering Team&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M-003&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://nt15mcp.github.io/404&quot; target=&quot;&quot;&gt;M003 - Orchard of Crimson Fruit&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Western Fields&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
-&lt;td&gt;🧭 Gathering Team&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr /&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; New missions are launched when a rumor reaches critical validation.&lt;br /&gt;
-Interested members may coordinate in the Discord Lodge or through in-character notes here.&lt;/p&gt;
-&lt;/blockquote&gt;
 
             </content>
             <link href="https://nt15mcp.github.io/nt15mcp.github.io/active-missions/" />
