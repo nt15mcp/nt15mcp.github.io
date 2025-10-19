@@ -14,8 +14,8 @@ The Crimson Hand Consortium is recognized less for displays of force than for it
 
 #### Known Operatives
 - [[Campaigns/WestMarchesStyle/Public/People/Elsera Myrren\|Elsera Myrren]]
-- [[Campaigns/WestMarchesStyle/Public/People/Mirra Kestrel\|Mirra Kestrel]]
 - [[Campaigns/WestMarchesStyle/Public/People/Orren Vale\|Orren Vale]]
+- [[Campaigns/WestMarchesStyle/Public/People/Mirra Kestrel\|Mirra Kestrel]]
 - [[Campaigns/WestMarchesStyle/Public/People/Tharic Nightbriar\|Tharic Nightbriar]]
 - [[Campaigns/WestMarchesStyle/Public/People/Vareth Malcor\|Vareth Malcor]]
 

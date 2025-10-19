@@ -13,8 +13,8 @@ The Order frequently works alongside allies such as the [[Campaigns/WestMarchesS
 Recognized as stalwart defenders of law and principle, the Order of the Gauntlet is a symbol of protection, moral certainty, and unwavering vigilance against threats to the innocent.
 
 #### Known Operatives
-- [[Campaigns/WestMarchesStyle/Public/People/Elowen Starshield\|Elowen Starshield]]
 - [[Campaigns/WestMarchesStyle/Public/People/Brother Kaelen Ironstride\|Brother Kaelen Ironstride]]
+- [[Campaigns/WestMarchesStyle/Public/People/Elowen Starshield\|Elowen Starshield]]
 - [[Campaigns/WestMarchesStyle/Public/People/Lady Arannis Valewyn\|Lady Arannis Valewyn]]
 - [[Campaigns/WestMarchesStyle/Public/People/Thalric Emberfall\|Thalric Emberfall]]
 - [[Campaigns/WestMarchesStyle/Public/People/Torric Veynhall\|Torric Veynhall]]

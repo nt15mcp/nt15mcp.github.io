@@ -134,7 +134,7 @@ The true origin of the Order is disputed. Among the most discussed theories:
 - **The Forgotten Threat**
     
 
-Read more: [[Origins of the Order\|Origins of the Order]]
+Read more: [[Campaigns/WestMarchesStyle/Public/Origins of the Order\|Origins of the Order]]
 
 ---
 
@@ -144,8 +144,7 @@ Read more: [[Origins of the Order\|Origins of the Order]]
 - [[Campaigns/WestMarchesStyle/Public/Active Missions\|Contracts]]
 - [[Campaigns/WestMarchesStyle/Public/Codex-Entries/_Index\|Codex Entries]]
 - [[Campaigns/WestMarchesStyle/Public/Artifacts/_Index\|Relics of Power]]
-- [[Notable Members\|Heroes of Grayharbor]]
-- [[Guild Traditions & Culture\|Customs & Lore of the Guild]]
+- [[Campaigns/WestMarchesStyle/Public/Notable Members\|Heroes of the Order]]
 - [[Campaigns/WestMarchesStyle/Public/Locations/Grayharbor\|The Town of Grayharbor]]
 - [[Campaigns/WestMarchesStyle/Public/Locations/_Index\|Wider Lands & Wilds]]
 - [[Campaigns/WestMarchesStyle/Public/Cultures/_Index\|Cultures & Traditions]]

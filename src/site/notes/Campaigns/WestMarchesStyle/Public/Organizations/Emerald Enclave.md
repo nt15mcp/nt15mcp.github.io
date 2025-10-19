@@ -15,8 +15,8 @@ The Emerald Enclave is recognized as a guardian of the natural world, its influe
 
 #### Known Operatives
 - [[Campaigns/WestMarchesStyle/Public/People/Gorath Stonebark\|Gorath Stonebark]]
+- [[Campaigns/WestMarchesStyle/Public/People/Selene Windwhisper\|Selene Windwhisper]]
 - [[Campaigns/WestMarchesStyle/Public/People/Sylvara Brightbough\|Sylvara Brightbough]]
 - [[Campaigns/WestMarchesStyle/Public/People/Theren Oakshadow\|Theren Oakshadow]]
-- [[Campaigns/WestMarchesStyle/Public/People/Selene Windwhisper\|Selene Windwhisper]]
 
 { .block-language-dataview}

@@ -17,7 +17,7 @@ The Red Wizards of Thay are recognized as formidable practitioners of magic, com
 #### Known Operatives
 - [[Campaigns/WestMarchesStyle/Public/People/Doranis Krynn\|Doranis Krynn]]
 - [[Campaigns/WestMarchesStyle/Public/People/Korrath Zeyl\|Korrath Zeyl]]
-- [[Campaigns/WestMarchesStyle/Public/People/Tharion Vexalis\|Tharion Vexalis]]
 - [[Campaigns/WestMarchesStyle/Public/People/Selindria Nightbloom\|Selindria Nightbloom]]
+- [[Campaigns/WestMarchesStyle/Public/People/Tharion Vexalis\|Tharion Vexalis]]
 
 { .block-language-dataview}

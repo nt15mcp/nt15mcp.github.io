@@ -15,8 +15,8 @@ Recognized as a centralizing force in regional politics, the Lord’s Alliance i
 #### Known Operatives
 - [[Campaigns/WestMarchesStyle/Public/People/Althea Carrick\|Althea Carrick]]
 - [[Campaigns/WestMarchesStyle/Public/People/Dorian Veyric\|Dorian Veyric]]
-- [[Campaigns/WestMarchesStyle/Public/People/Garron Ashvale\|Garron Ashvale]]
 - [[Campaigns/WestMarchesStyle/Public/People/Kaelric Dravemont\|Kaelric Dravemont]]
+- [[Campaigns/WestMarchesStyle/Public/People/Garron Ashvale\|Garron Ashvale]]
 - [[Campaigns/WestMarchesStyle/Public/People/Selara Tyndall\|Selara Tyndall]]
 
 { .block-language-dataview}

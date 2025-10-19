@@ -14,9 +14,9 @@ Recognized for their combination of moral authority and social presence, the Daw
 
 #### Known Operatives
 - [[Campaigns/WestMarchesStyle/Public/People/Brother Halric Durn\|Brother Halric Durn]]
-- [[Campaigns/WestMarchesStyle/Public/People/Sister Lyrielle Dawnmantle\|Sister Lyrielle Dawnmantle]]
-- [[Campaigns/WestMarchesStyle/Public/People/Maeron Vale\|Maeron Vale]]
 - [[Campaigns/WestMarchesStyle/Public/People/Archmage Pelanor Brightstar\|Archmage Pelanor Brightstar]]
+- [[Campaigns/WestMarchesStyle/Public/People/Maeron Vale\|Maeron Vale]]
 - [[Campaigns/WestMarchesStyle/Public/People/Seraphine Vael\|Seraphine Vael]]
+- [[Campaigns/WestMarchesStyle/Public/People/Sister Lyrielle Dawnmantle\|Sister Lyrielle Dawnmantle]]
 
 { .block-language-dataview}

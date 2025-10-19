@@ -13,8 +13,8 @@ While the Whispering Veil occasionally forms opportunistic alliances, particular
 Recognized for subtlety and strategic acumen, the Whispering Veil operates in the shadows, shaping the outcomes of conflicts and decisions while remaining largely unseen.
 
 #### Known Operatives
-- [[Campaigns/WestMarchesStyle/Public/People/Korrim Blackthorn\|Korrim Blackthorn]]
 - [[Campaigns/WestMarchesStyle/Public/People/Loryn Veynar\|Loryn Veynar]]
+- [[Campaigns/WestMarchesStyle/Public/People/Korrim Blackthorn\|Korrim Blackthorn]]
 - [[Campaigns/WestMarchesStyle/Public/People/Sylvara Moonshear\|Sylvara Moonshear]]
 - [[Campaigns/WestMarchesStyle/Public/People/Veylan Korrath\|Veylan Korrath]]
 - [[Campaigns/WestMarchesStyle/Public/People/Veylindar Shadewell\|Veylindar Shadewell]]

@@ -3,21 +3,21 @@
 ---
 
 # Organizations
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Banner\|Crimson Banner]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Ashen Blades\|Ashen Blades]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Conclave\|Crimson Conclave]]
 - [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Hand Consortium\|Crimson Hand Consortium]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Dawnforged Circle\|Dawnforged Circle]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Emerald Enclave\|Emerald Enclave]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Council of Harborwardens\|Council of Harborwardens]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Banner\|Crimson Banner]]
 - [[Campaigns/WestMarchesStyle/Public/Organizations/Harpers\|Harpers]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay\|Red Wizards of Thay]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]]
 - [[Campaigns/WestMarchesStyle/Public/Organizations/Iron Sigil\|Iron Sigil]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Lord’s Alliance\|Lord’s Alliance]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Order of the Gauntlet\|Order of the Gauntlet]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Red Wizards of Thay\|Red Wizards of Thay]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Emerald Enclave\|Emerald Enclave]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Dawnforged Circle\|Dawnforged Circle]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Zhentarim\|Zhentarim]]
+- [[Campaigns/WestMarchesStyle/Public/Organizations/Obsidian Choir\|Obsidian Choir]]
 - [[Campaigns/WestMarchesStyle/Public/Organizations/Verdant Enclave\|Verdant Enclave]]
 - [[Campaigns/WestMarchesStyle/Public/Organizations/Whispering Veil\|Whispering Veil]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Council of Harborwardens\|Council of Harborwardens]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Obsidian Choir\|Obsidian Choir]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Crimson Conclave\|Crimson Conclave]]
-- [[Campaigns/WestMarchesStyle/Public/Organizations/Ashen Blades\|Ashen Blades]]
 
 { .block-language-dataview}
