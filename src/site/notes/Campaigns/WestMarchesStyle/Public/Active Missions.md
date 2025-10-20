@@ -13,9 +13,10 @@ When a mission concludes, its report is filed as a new [[Campaigns/WestMarchesSt
 
 ---
 
-| Mission Title | Region | Field Party | Status |
-| ------------- | ------ | ----------- | ------ |
-| None          | TBD    | TBD         | TBD    |
+| Mission Title            | Region             | Field Party | Status                   |
+| ------------------------ | ------------------ | ----------- | ------------------------ |
+| [[Campaigns/WestMarchesStyle/Public/The Briefing Room/The Vanishing Hamlet\|The Vanishing Hamlet]] | Coastal Fringe     | TBD         | Awaiting Party Formation |
+| [[Campaigns/WestMarchesStyle/Public/The Briefing Room/The Hollowed Grove\|The Hollowed Grove]]   | Heartgrove Expanse | TBD         | Awaiting Party Formation |
 
 
 ---
